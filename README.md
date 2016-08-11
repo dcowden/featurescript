@@ -30,4 +30,9 @@
 
 [End Flange](https://cad.onshape.com/documents/57886436e4b038b786de90ff/w/a346f741ea5d63b5276aa8dc/e/d5d801a3b8477b59af1ac958) -- create an end flange that matches the shape of a part
 
+[Radial Pattern](https://cad.onshape.com/documents/57acdd79e4b01d53a1caf1f5/w/71a5841922caf49ccdf9c965/e/0aa03a35bf16af9cd999451b) -- circular pattern with option for radial second direction
+
+[Parametric Surface](https://cad.onshape.com/documents/57a62df8e4b03de4c9fcf154/w/f6d71f3d862b522902efcd68/e/ece65382fcd820281a9ee704) --  generate surfaces with equations
+
+[Multi Plane 2](https://cad.onshape.com/documents/578d3ba3e4b0fe44cbff7c02/w/2d7c55bd5d5ed951e86c0b0c/e/566edf8fb019ed25389d7d92) -- same as Onshape's Multi Plane but with a rotated plane array option
 
