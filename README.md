@@ -2,7 +2,7 @@
 
 A curated list of Featurescript for Onshape ( www.onshape.com )
 
-[Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b/w/24132f252a02825eb0606641/e/67f132612739f155f5474819) -- Create embossed or raised text on flat and curved surfaces
+[Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b/w/24132f252a02825eb0606641/e/67f132612739f155f5474819) -- Create embossed or raised text on flat and curved surfaces 
 
 [Enhanced Planes](https://cad.onshape.com/documents/0de04acb5bac92ca16796edf/w/cdd1d1882311084fe54bff24/e/daaec91732ca5add243c90dd) -- Create planes tangent to surfaces and other ways
 
@@ -15,4 +15,15 @@ A curated list of Featurescript for Onshape ( www.onshape.com )
 [ANSI Steel Generator](https://cad.onshape.com/documents/b66d1ff63684957c167272d8/w/2ac42f22fbfa9366e2f4df35/e/33b8950d87918aefcb267a4f) -- creates standare AISC structure steel shapes
 
 [Offset Faces](https://cad.onshape.com/documents/323312569b42b381b93ee95c/w/4feba228409d550cfecc4193/e/4f18ff5b4caf83cc9e65fee9) -- offset one or more faces
+
+[Pocket Holes](https://cad.onshape.com/documents/5c9f5a0c9e9568a64f8fce0f/w/5f5fb2a214796377ad0d8f98/e/6290b4d3ef8ef9df035b121a ) -- create pocket holes from vertices
+
+[T-slot Joints](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/w/8528f1c2d733302d4632f38e/e/7eab6eb8ff7dea85b9cc6a87 ) -- create t-slot joints from overlapping pieces
+
+[Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876) -- flatten a part into a set of flat parts for cutting out
+
+[Adaptive Finger Joints](https://cad.onshape.com/documents/576e081de4b0cc2e7f46a8bc/v/08d3dbb92435ba9c7f208b8f/e/40ff5a6e1b07d8361b4747d0) -- create finger joints from overlapping geometry
+
+[O ring generator](https://cad.onshape.com/documents/ae242486af63d55695d994a6/w/bd934a52d0bc030cc75b310f/e/6393ddee213a083563197321) -- create o-rings that will fit into existing grooves
+
 
