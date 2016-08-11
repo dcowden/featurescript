@@ -26,4 +26,8 @@ A curated list of Featurescript for Onshape ( www.onshape.com )
 
 [O ring generator](https://cad.onshape.com/documents/ae242486af63d55695d994a6/w/bd934a52d0bc030cc75b310f/e/6393ddee213a083563197321) -- create o-rings that will fit into existing grooves
 
+[Parametric Curve](https://cad.onshape.com/documents/578ff8b3e4b0e65410fcfda3/w/d33395f174e5b38f4abd6097/e/cc0c3d5644a78b1b64d6c3b4) -- create curves described by equations
+
+[End Flange](https://cad.onshape.com/documents/57886436e4b038b786de90ff/w/a346f741ea5d63b5276aa8dc/e/d5d801a3b8477b59af1ac958) -- create an end flange that matches the shape of a part
+
 
