@@ -22,7 +22,7 @@
 
 [Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876) -- flatten a part into a set of flat parts for cutting out
 
-[Adaptive Finger Joints](https://cad.onshape.com/documents/576e081de4b0cc2e7f46a8bc/v/08d3dbb92435ba9c7f208b8f/e/40ff5a6e1b07d8361b4747d0) -- create finger joints from overlapping geometry
+[Featurescript Laser Joint](https://cad.onshape.com/documents/578830e4e4b0e65410f9c34e/w/d04a088a0a8ab8361a2aa65c/e/7af109b2f1cead90850525ae) -- create finger joints from overlapping geometry
 
 [O ring generator](https://cad.onshape.com/documents/ae242486af63d55695d994a6/w/bd934a52d0bc030cc75b310f/e/6393ddee213a083563197321) -- create o-rings that will fit into existing grooves
 
