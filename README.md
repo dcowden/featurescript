@@ -36,3 +36,4 @@
 
 [Multi Plane 2](https://cad.onshape.com/documents/578d3ba3e4b0fe44cbff7c02/w/2d7c55bd5d5ed951e86c0b0c/e/566edf8fb019ed25389d7d92) -- same as Onshape's Multi Plane but with a rotated plane array option
 
+[NACA Airfoil](https://cad.onshape.com/documents/972dc31f395640d97dd6edca/w/8125816b48d1d07ebf0af701/e/31fa0727e4e6c9eb38ab1bb4) -- Create an NACA airfoil by reading a CSV file
