@@ -138,7 +138,7 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 [Variable section sweep](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3/w/a2de18e932e02a4bd51d3af3/e/0b2c3849b5900737fa810e87) -- Proof of concept creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves
 
 [3D Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/8695694c2f658a05d1fb7da2)
--- Creates a round spiral along some spatial curve
+-- Creates a circular spiral along some spatial curve
 
 [Contour Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/e81812836b0902c719b1a125) -- Creates a spiral along the curve with user-defined cross section profile
 
