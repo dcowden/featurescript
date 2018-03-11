@@ -29,6 +29,8 @@ Feedback is welcome!
 
 [Featurescript Laser Joint](https://cad.onshape.com/documents/578830e4e4b0e65410f9c34e/w/d04a088a0a8ab8361a2aa65c/e/7af109b2f1cead90850525ae) -- create finger joints from overlapping geometry
 
+[Break off Tabs](https://cad.onshape.com/documents/eea009fcf35a0cd683265767/v/467c5a5872fdde831846abc9/e/b692addf96e4fd22a1078b04) -- creates tabs that easily break off.
+
 ## Surfaces, Curves, and Geometry
 
 [Surface Pattern](https://cad.onshape.com/documents/6988ff60065e4c34350ca5e1/w/05b4b3df185502c24c426678/e/5609d290e6b16e8c2a12cf12) -- Patterns a part across a surface of a body, either subtracting the part from the body or adding to it.
@@ -96,6 +98,8 @@ Feedback is welcome!
 [Fillet/Chamfer Feature Library](https://cad.onshape.com/documents/b1be5929c83cf76c063a2181/) -- The code behind the above features
 
 [Ports] (https://cad.onshape.com/documents/bdb01b008db20251b8a967ad/v/5c3738f65d5a91fcab3776c1/e/e2e1902a5981862d95b41429) -- creates SAE J1926 straight thread ports.
+
+[Full Round Fillet](https://cad.onshape.com/documents/3d52520839c0fa3587798c0f/v/6aeecc6792399b17f13b4e96/e/557d82915abb44038863f4b4) -- Creates fully rounded fillets
 
 ## Primitives
 [Polyhedron FS](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- creates a maximum convex hull solid for any orderless set of 3D vertices
