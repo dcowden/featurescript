@@ -4,7 +4,9 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 
 The official Onshape list of FeatureScripts is https://www.onshape.com/featurescript. It is not comprehensive or categorized.
 
-Please log an issue or submit a PR if you have changes you recommend. Feedback is welcome!
+Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend. 
+
+Feedback is welcome!
 
 
 ## Joinery
