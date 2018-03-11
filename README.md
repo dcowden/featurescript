@@ -3,6 +3,70 @@
 FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with really cool custom features. Sadly, Onshape does not provide a 'featurescript store' that lists all of the really good ones.
 
 
+[Surface Pattern](https://cad.onshape.com/documents/6988ff60065e4c34350ca5e1/w/05b4b3df185502c24c426678/e/5609d290e6b16e8c2a12cf12) -- Patterns a part across a surface of a body, either subtracting the part from the body or adding to it.
+
+[Planetary Gears](https://cad.onshape.com/documents/b55a80bb510b8ff5cb20fd9a/w/90bb96678686be69d1404ab9/e/e4deff0ebe7c6e37cda1934b) --  Creates an epicyclic, or planetary, gear transmission using true involute gears. 
+
+[Drive Train Generator](https://cad.onshape.com/documents/6527d86ca7126bbe5b04ca08/w/0cbb5f0cf21f029b0851e42c/e/3ea2b29bac4713685544dc37)  -- Creates gear drive trains based on sketch points selected and a final desired reduction ratio. An optional optimization algorithm can be enabled to make precise reductions.
+
+[Sculpt Face](https://cad.onshape.com/documents/b8730d44070bc0466ad80444/w/b111d39908fbb971f1521124/e/ac06e040069e0768a2d6b6fb) -- Allows you to sculpt a face by adjusting the underlying surface using manipulators.
+
+[Fit Spline](https://cad.onshape.com/documents/4921880a2a6769256992599d/w/9ca359dbf967f3795856383a/e/3ce1f9c3b9012af4970f7490) -- Takes 1 or more splines and fits one spline through them.
+
+[Lap Joint](https://cad.onshape.com/documents/578ce95de4b0e425c1f00cda/w/cbc0b1ab48f411a4675afae1/e/6dbd408b8dc213a84767ec69) -- Creates a lap joint between two parts with rectangular sections.
+
+[Point Pattern](https://cad.onshape.com/documents/9fca78cb66a0bc83e359eb3e/v/7b8e02af4e9b52af8d3ba60b/e/d7f44d3f530f6db8852edfeb) -- Pattern parts at sketch vertices.
+
+[Snap Hook](https://cad.onshape.com/documents/5738c1f6e4b06c68b35e66aa/v/668674c951100573af45a415/e/77103724366528a36672a978) -- Creates a snap hook - a common fastening feature in plastic part design.
+
+[Hex Infill](https://cad.onshape.com/documents/5729ffb4e4b077d8431a8cea/v/bba4125ec64df8c43c6e876c/e/8cb802c1a9080d5481747743) -- Creates an internally sparse structure of regular hexagons.
+
+[Belt](https://cad.onshape.com/documents/57886eace4b0e425c1ef548a/w/54f180f432defb41a8fddb17/e/c65e445e89ee373617edc394) -- Creates a belt around any number of pulleys.
+
+[3D Spline](https://cad.onshape.com/documents/573f7b36e4b02e83c71782fc/v/4e54a08374e12db1056f3bc2/e/5718da06c22e7b08a5fb58b3) -- Creates an optionally closed spline curve through a sequence of vertices.
+
+[Mortise and Tenon](https://cad.onshape.com/documents/57ebf15e06acf910d5ac1b09/w/5ad1d8c8be840c2c6f8f02b6/e/242e3449f5f40725d9f585ab) -- Creates a mortise and tenon joint.
+
+[Box/Dovetail Joint](https://cad.onshape.com/documents/57612867e4b018f59e4d52ce/w/1e657f13b93a753115dcbd12/e/29340b9ea8177088647ffe75) -- Creates a finger joint or dovetail joint between two parts.
+
+[Fill Pattern](https://cad.onshape.com/documents/57361ad4e4b00e5012c3857c/v/77e52ccc47a42371185767df/e/14aa44d127806651b248b9c6) -- Patterns faces within a target face while avoiding the boundary of the face.
+
+[Bricks](https://cad.onshape.com/documents/573b8871e4b0fddafb4e953e/v/908fcfbeef98611836b245a9/e/a3e6fde07829a53a3ae8451e) -- Creates building bricks in various styles and sizes.
+
+[Measure Distance](https://cad.onshape.com/documents/572b968ce4b07aad125dbaaf/v/08093fef6c4d4f330f24dd19/e/b40df94c5081948fe8195e81) -- Measures the distance between two things in a Part Studio and assigns the result to a variable.
+
+[Lighten](https://cad.onshape.com/documents/573f7d70e4b0fddafb52148c/v/a8a36f6d743269e1b6886711/e/2dc22a6a95896a5243812d07) --  Creates pockets to lighten a solid part.
+
+[Multi-plane](https://cad.onshape.com/documents/575857fae4b06a2590ec9d29/w/7a682d53abc1dbd6192f8299/e/be58c81aba88f5738dd746a5) -- Creates multiple, evenly spaced planes from a single reference plane or open/closed 2D or 3D edge
+
+[Circular Pattern](https://cad.onshape.com/documents/57b7740ce4b002b1d76d73b8/w/74ebb8e6fc5c218c0891f528/e/ddd2eb42189ff78a6e53fa34) -- Adds radial direction and seed location options to Onshape’s standard circular pattern.
+
+[Metric Keys](https://cad.onshape.com/documents/06f4d2c9a0d032207955bba4/w/f3f035873933a2da328710b6/e/ac2daf5918dba515b9b0f3f5) -- Creates metric keys for shaft assembly.
+
+[T-slot Joint](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/v/59c55ebbb7f52936dae70676/e/acc455ae2adcf11a571ba510) -- Creates a T-slot bolted connection between two planar parts.
+
+[kerf compensation](https://cad.onshape.com/documents/57df36a88f63301089e8ac78/v/17d807acd78c9661ab3cbd3c/e/157268905828b0fc910e365b) -- Offsets all cut faces of a planar part to compensate for cutting kerf.
+
+[Pocket Holes](https://cad.onshape.com/documents/5789a3c4e4b0e65410faa582/w/dc0aed9cbd48b77b511c6127/e/2e58c8f3f3e74edffd92ea75) -- Creates pocket holes according to the thickness and the length of the part.
+
+[Part Draft](https://cad.onshape.com/documents/578ceef1e4b01a7c3b1f353f/w/fa319c720c94a559de053612/e/2d4015dbb936ea708337450a) -- Adds a draft to an entire part all at once.
+
+[Revolved Curve](https://cad.onshape.com/documents/57888f0ae4b0e65410f9ee45/w/00f05d637cc4efccb67d4981/e/5f73b2d7ec5f6975eb8bd7b2) -- Adds a revolved 3D curve with one of several shape profiles and configurable size, location, and pitch.
+
+[Parametric Surface](https://cad.onshape.com/documents/57a62df8e4b03de4c9fcf154/w/f6d71f3d862b522902efcd68/e/ece65382fcd820281a9ee704) -Creates a surface driven by an equation of the form z = f(x,y).
+
+[End Flange](https://cad.onshape.com/documents/57886436e4b038b786de90ff/w/a346f741ea5d63b5276aa8dc/e/d5d801a3b8477b59af1ac958) -- Allows you to add a flange onto a planar surface of a solid body.
+
+[Wave Spring](https://cad.onshape.com/documents/5720a838e4b0c6d25c8c1ff1/v/318b4a29b30263a0b42bf845/e/e72d25ce475e2cc4a10a25e6) -- Creates a wave spring at the origin with mate connectors at either end for easy transform or assembly.
+
+[Straight Spline](https://cad.onshape.com/documents/5848a5f5f680f5104c2bb48d/v/f47bc4ccf348ebfe5a0d118d/e/0ba35c2d77e42c59c2e35b00) -- Creates an SAE Standard Straight Spline on the end of shafts.
+
+[Tangent Plane](https://cad.onshape.com/documents/68455a5d522e81cd65a35211/w/deb148ff386c8a32e35e7d65/e/929b7ca8aeee162bb0f129d9) -- Creates tangent planes to any surface with an orientation option of any vertex, plane or face.
+
+[Wiring](https://cad.onshape.com/documents/6dff8f67e2ef0b33193a10d2/w/ad1dd98bb99d14ca27c2eb74/e/0904f1281fabe33fcdd58945) -- Creates wire bundles that go through sketch points in 3D space.
+
+
+
 [Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b/w/24132f252a02825eb0606641/e/67f132612739f155f5474819) -- Create embossed or raised text on flat and curved surfaces 
 
 [Enhanced Planes](https://cad.onshape.com/documents/0de04acb5bac92ca16796edf/w/cdd1d1882311084fe54bff24/e/daaec91732ca5add243c90dd) -- Create planes tangent to surfaces and other ways
