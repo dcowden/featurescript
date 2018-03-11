@@ -3,14 +3,12 @@
 
 ![Awesome](https://github.com/dcowden/featurescript/raw/master/awesome.png)
 
-FeatureScript is a way to extend [Onshape](http://www.onshape.com/featurescript) with really cool custom features. Sadly, Onshape does not provide a 'featurescript store' that lists all of the really good ones.
+FeatureScript is a way to extend [Onshape](http://www.onshape.com) with really cool custom features. Sadly, Onshape does not provide a 'featurescript store' that lists all of the really good ones.  The official [Onshape list of FeatureScripts](https://www.onshape.com/featurescript) is not comprehensive or categorized.
 
-The official [Onshape list of FeatureScripts](https://www.onshape.com/featurescript) is not comprehensive or categorized.
+## Submitting Changes/Additions
+Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend. 
 
-Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend. 
-
-Feedback is welcome!
-
+# Awesome FeatureScript
 
 ## Joinery
 [Lap Joint](https://cad.onshape.com/documents/578ce95de4b0e425c1f00cda/w/cbc0b1ab48f411a4675afae1/e/6dbd408b8dc213a84767ec69) -- Creates a lap joint between two parts with rectangular sections.
