@@ -129,7 +129,8 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 
 [Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline
 
-[Transform pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db/w/ed2afaf5bd2d12066495dc84/e/a71ff51699ae36f356a38f69) -- point pattern that also works with objects built from body/feature/face and new/add/remoove/intersect
+[Transform pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db/w/ed2afaf5bd2d12066495dc84/e/a71ff51699ae36f356a38f69) -- transforms faces, bodies or features to the positions defined by vertices or mate connectors.
+For body transfoms allows new/add/remoove/intersect options.
 
 [Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6f/w/25d8c7ecb4fba2c4e6eb34a4/e/bbc5cf0f6b3fc16186444e0d) -- make "configurations" of geometry with predefined references to a set of user-defined variables
 
