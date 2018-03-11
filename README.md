@@ -3,13 +3,12 @@
 
 ![Awesome](https://github.com/dcowden/featurescript/raw/master/awesome.png)
 
-FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with really cool custom features. Sadly, Onshape does not provide a 'featurescript store' that lists all of the really good ones.
+FeatureScript is a way to extend [Onshape](http://www.onshape.com) with really cool custom features. Sadly, Onshape does not provide a 'featurescript store' that lists all of the really good ones.  The official [Onshape list of FeatureScripts](https://www.onshape.com/featurescript) is not comprehensive or categorized.
 
-The official Onshape list of FeatureScripts is https://www.onshape.com/featurescript. It is not comprehensive or categorized.
+*Full Disclosure* I created several features in the list below , but they make up a small fraction of the total, and they have not received any special categorization or treatment
 
-Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend. 
-
-Feedback is welcome!
+#### Submitting Changes/Additions
+Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend. 
 
 
 ## Joinery
@@ -65,11 +64,20 @@ Feedback is welcome!
 
 [NACA Airfoil](https://cad.onshape.com/documents/972dc31f395640d97dd6edca/w/8125816b48d1d07ebf0af701/e/31fa0727e4e6c9eb38ab1bb4) -- Create an NACA airfoil by reading a CSV file
 
-[Wrap Curves around Surfaces](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) --Wraps sketched curves around cone and cylinder surfaces like 3d curves
+[Sketch Wrapper](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) --Wraps sketched curves around cone and cylinder surfaces like 3d curves
 
 [Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1) --  generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point
 
-[Flex FS Curve Transforms](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline
+[Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline
+
+[RectToPolar](https://cad.onshape.com/documents/b59ab933bf1592e02614330f/w/a58753fdbb92959793980f44/e/ded816b2c095eb1569913c85) -- Creates flat cam profiles based on the 2d sketch with law of motion and sketch coordinate system (defined by mc).
+
+[3D Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/8695694c2f658a05d1fb7da2)
+-- Creates a circular spiral along some spatial curve
+
+[Contour Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/e81812836b0902c719b1a125) -- Creates a spiral along the curve with user-defined cross section profile
+
+[Variable section sweep ](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3/w/a2de18e932e02a4bd51d3af3/e/0b2c3849b5900737fa810e87) -- Proof of concept creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves
 
 [Extend Surface](https://cad.onshape.com/documents/b1b694bd5db0f702f9dc4b3b/w/436b0d32f2538e0e9150e29a/e/9b7dd4b542e8966b380198d6) -- Extends existing surface bodies.
 
@@ -97,12 +105,12 @@ Feedback is welcome!
 
 [Fillet/Chamfer Feature Library](https://cad.onshape.com/documents/b1be5929c83cf76c063a2181/) -- The code behind the above features
 
-[Ports] (https://cad.onshape.com/documents/bdb01b008db20251b8a967ad/v/5c3738f65d5a91fcab3776c1/e/e2e1902a5981862d95b41429) -- creates SAE J1926 straight thread ports.
+[Ports](https://cad.onshape.com/documents/bdb01b008db20251b8a967ad/v/5c3738f65d5a91fcab3776c1/e/e2e1902a5981862d95b41429) -- creates SAE J1926 straight thread ports.
 
 [Full Round Fillet](https://cad.onshape.com/documents/3d52520839c0fa3587798c0f/v/6aeecc6792399b17f13b4e96/e/557d82915abb44038863f4b4) -- Creates fully rounded fillets
 
 ## Primitives
-[Polyhedron FS](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- creates a maximum convex hull solid for any orderless set of 3D vertices
+[Convex Polyhedron](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- creates a maximum convex hull solid for any orderless set of 3D vertices
 
 [Bricks](https://cad.onshape.com/documents/573b8871e4b0fddafb4e953e/v/908fcfbeef98611836b245a9/e/a3e6fde07829a53a3ae8451e) -- Creates building bricks in various styles and sizes.
 
@@ -144,12 +152,7 @@ Feedback is welcome!
 
 [Drive Train Generator](https://cad.onshape.com/documents/6527d86ca7126bbe5b04ca08/w/0cbb5f0cf21f029b0851e42c/e/3ea2b29bac4713685544dc37)  -- Creates gear drive trains based on sketch points selected and a final desired reduction ratio. An optional optimization algorithm can be enabled to make precise reductions.
 
-[Syncro Rotator Feature script](https://cad.onshape.com/documents/a0adddcc041efb15f8c3ad2a/w/4e997c4fe738a2030fa71786/e/8a74e08a2998e0d0e6ea7e87) -- create gear profiles automatically from another object
-
-
-[Measure Value](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- measure distance along curves between entities
-
-[Sketch Wrapper](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) --Wraps sketched curves around cone and cylinder surfaces like 3d curves
+[Syncro Rotator](https://cad.onshape.com/documents/a0adddcc041efb15f8c3ad2a/w/4e997c4fe738a2030fa71786/e/8a74e08a2998e0d0e6ea7e87) -- create gear profiles automatically from another object
 
 [Wiring](https://cad.onshape.com/documents/6dff8f67e2ef0b33193a10d2/w/ad1dd98bb99d14ca27c2eb74/e/0904f1281fabe33fcdd58945) -- Creates wire bundles that go through sketch points in 3D space.
 
@@ -166,45 +169,22 @@ Feedback is welcome!
 
 [Radial Pattern](https://cad.onshape.com/documents/57acdd79e4b01d53a1caf1f5/w/71a5841922caf49ccdf9c965/e/0aa03a35bf16af9cd999451b) -- circular pattern with option for radial second direction
 
-
 [Curve Pattern Normal](https://cad.onshape.com/documents/57ef018093832a1090983bfe/w/58bcbe4474554bfb72f7ecbe/e/147da62eb78afe2ead98587f) -- allows you to orient the seed features/bodies/surfaces to maintain their normal position relative to a reference surface
 
 [Sweep Normal](https://cad.onshape.com/documents/ba3c5f086342a4d4d9c66071/w/1555421c5cfaef36d93b3e6c/e/4aff2b3579595dea2b17a323) -- maintain a sweep profile's normalcy relative to a reference surface instead of the sweep path
-
-[RectToPolar](https://cad.onshape.com/documents/b59ab933bf1592e02614330f/w/a58753fdbb92959793980f44/e/ded816b2c095eb1569913c85) -- Creates flat cam profiles based on the 2d sketch with law of motion and sketch coordinate system (defined by mc).
-
-
-[Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1) --  generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point
-
-[Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline
 
 [Transform pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db/w/ed2afaf5bd2d12066495dc84/e/a71ff51699ae36f356a38f69) -- transforms faces, bodies or features to the positions defined by vertices or mate connectors.
 For body transfoms allows new/add/remoove/intersect options.
 
 [Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6f/w/25d8c7ecb4fba2c4e6eb34a4/e/bbc5cf0f6b3fc16186444e0d) -- make "configurations" of geometry with predefined references to a set of user-defined variables
 
-[Convex Polyhedron FS](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- creates a maximum convex hull solid for any orderless set of 3D vertices
-
-[Variable section sweep](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3/w/a2de18e932e02a4bd51d3af3/e/0b2c3849b5900737fa810e87) -- Proof of concept creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves
-
-[3D Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/8695694c2f658a05d1fb7da2)
--- Creates a circular spiral along some spatial curve
-
-[Contour Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/e81812836b0902c719b1a125) -- Creates a spiral along the curve with user-defined cross section profile
-
-[Tracer FS](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1)
--- Traces geometrical parameters of the motion of a flat mechanism defined by sketch, prints them to the console and created a dependency graph on XY work plane
-
-[Point Pattern ext](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db/w/ed2afaf5bd2d12066495dc84/e/a71ff51699ae36f356a38f69) -- point pattern that also works with objects built from body/feature/face and new/add/remoove/intersect
-
-[Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6f/w/25d8c7ecb4fba2c4e6eb34a4/e/bbc5cf0f6b3fc16186444e0d) -- make "configurations" of geometry with predefined references to a set of user-defined variables
-
-[Variable section sweep ](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3/w/a2de18e932e02a4bd51d3af3/e/0b2c3849b5900737fa810e87) -- Proof of concept creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves
-
 ## Analysis
 [Calculate Bounds](https://cad.onshape.com/documents/2ce3e64026df1ac7e63b98bd/) -- computes the bounds of selected objects
 
-[Measure Distance Extended](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- measure distance along curves between entities
+[Measure Value](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- measure distance, angle, perimeter, area or volume for selected entities and saves the result to the variable
+
+[Tracer FS](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1)
+-- Traces geometrical parameters of the motion of a flat mechanism defined by sketch, prints them to the console and created a dependency graph on XY work plane
 
 [Ray Tracer](https://cad.onshape.com/documents/258a19506c555f400614c944/w/74e657ae2800105e2874589a/e/71d75b30fc9a22f4a9b82a08) -- Simulates a ray of light reflecting off objects and refracting through them.
 
