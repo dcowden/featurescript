@@ -1,5 +1,8 @@
 # Awesome FeatureScript for Onshape
 
+
+[![Awesome](https://github.com/dcowden/featurescript/raw/master/awesome.png)]
+
 FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with really cool custom features. Sadly, Onshape does not provide a 'featurescript store' that lists all of the really good ones.
 
 The official Onshape list of FeatureScripts is https://www.onshape.com/featurescript. It is not comprehensive or categorized.
