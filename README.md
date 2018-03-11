@@ -1,6 +1,6 @@
 # Awesome FeatureScript for Onshape
 
-![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fdcowden%2Ffeaturescript&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-115436381-1&z=887657232 "ga tracker") ![PRs Welcom](https://camo.githubusercontent.com/a34cfbf37ba6848362bf2bee0f3915c2e38b1cc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265)
+![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fdcowden%2Ffeaturescript&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-115436381-1&z=887657232 "ga tracker")  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![FeatureScripts](https://img.shields.io/badge/FeatureScripts-89-brightgreen.svg)
 
 ![Awesome](https://github.com/dcowden/featurescript/raw/master/awesome.png)
 
