@@ -146,6 +146,11 @@ Feedback is welcome!
 
 [Syncro Rotator Feature script](https://cad.onshape.com/documents/a0adddcc041efb15f8c3ad2a/w/4e997c4fe738a2030fa71786/e/8a74e08a2998e0d0e6ea7e87) -- create gear profiles automatically from another object
 
+
+[Measure Value](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- measure distance along curves between entities
+
+[Sketch Wrapper](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) --Wraps sketched curves around cone and cylinder surfaces like 3d curves
+
 [Wiring](https://cad.onshape.com/documents/6dff8f67e2ef0b33193a10d2/w/ad1dd98bb99d14ca27c2eb74/e/0904f1281fabe33fcdd58945) -- Creates wire bundles that go through sketch points in 3D space.
 
 ## Text and Decorative
@@ -161,11 +166,34 @@ Feedback is welcome!
 
 [Radial Pattern](https://cad.onshape.com/documents/57acdd79e4b01d53a1caf1f5/w/71a5841922caf49ccdf9c965/e/0aa03a35bf16af9cd999451b) -- circular pattern with option for radial second direction
 
+
 [Curve Pattern Normal](https://cad.onshape.com/documents/57ef018093832a1090983bfe/w/58bcbe4474554bfb72f7ecbe/e/147da62eb78afe2ead98587f) -- allows you to orient the seed features/bodies/surfaces to maintain their normal position relative to a reference surface
 
 [Sweep Normal](https://cad.onshape.com/documents/ba3c5f086342a4d4d9c66071/w/1555421c5cfaef36d93b3e6c/e/4aff2b3579595dea2b17a323) -- maintain a sweep profile's normalcy relative to a reference surface instead of the sweep path
 
 [RectToPolar](https://cad.onshape.com/documents/b59ab933bf1592e02614330f/w/a58753fdbb92959793980f44/e/ded816b2c095eb1569913c85) -- Creates flat cam profiles based on the 2d sketch with law of motion and sketch coordinate system (defined by mc).
+
+
+[Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1) --  generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point
+
+[Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline
+
+[Transform pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db/w/ed2afaf5bd2d12066495dc84/e/a71ff51699ae36f356a38f69) -- transforms faces, bodies or features to the positions defined by vertices or mate connectors.
+For body transfoms allows new/add/remoove/intersect options.
+
+[Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6f/w/25d8c7ecb4fba2c4e6eb34a4/e/bbc5cf0f6b3fc16186444e0d) -- make "configurations" of geometry with predefined references to a set of user-defined variables
+
+[Convex Polyhedron FS](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- creates a maximum convex hull solid for any orderless set of 3D vertices
+
+[Variable section sweep](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3/w/a2de18e932e02a4bd51d3af3/e/0b2c3849b5900737fa810e87) -- Proof of concept creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves
+
+[3D Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/8695694c2f658a05d1fb7da2)
+-- Creates a circular spiral along some spatial curve
+
+[Contour Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/e81812836b0902c719b1a125) -- Creates a spiral along the curve with user-defined cross section profile
+
+[Tracer FS](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1)
+-- Traces geometrical parameters of the motion of a flat mechanism defined by sketch, prints them to the console and created a dependency graph on XY work plane
 
 [Point Pattern ext](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db/w/ed2afaf5bd2d12066495dc84/e/a71ff51699ae36f356a38f69) -- point pattern that also works with objects built from body/feature/face and new/add/remoove/intersect
 
@@ -183,12 +211,3 @@ Feedback is welcome!
 [Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876) -- Flatten a part into a set of flat parts for cutting out
 
 ## Misc
-
-
-
-
-
-
-
-
-
