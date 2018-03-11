@@ -86,6 +86,8 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 
 [Bricks](https://cad.onshape.com/documents/573b8871e4b0fddafb4e953e/v/908fcfbeef98611836b245a9/e/a3e6fde07829a53a3ae8451e) -- Creates building bricks in various styles and sizes.
 
+[Torus, Dome, and Sphere](https://cad.onshape.com/documents/05a8f21030b0b305f4416e1a/w/cef0965075e285708f925765/e/75de5e6cdbb573c13e61fbd5) -- Creates simple torus, dome, and spheres
+
 ## Structures
 [8020 Profile Generator](https://cad.onshape.com/documents/ccf713ca7463aeb3cbebce26/w/98577b0c5518f6fa1d06d69b/e/05fed5e3fd0d0ef69021b468) -- create 8020inc profiles
 
@@ -95,6 +97,10 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 [O ring generator](https://cad.onshape.com/documents/ae242486af63d55695d994a6/w/bd934a52d0bc030cc75b310f/e/6393ddee213a083563197321) -- create o-rings that will fit into existing grooves
 
 [Socket Head Cap Screw creator](https://cad.onshape.com/documents/2d7e0a6b68c2039da4221ebc/w/06d0026261b3d9bb908f74a1/e/55810c25d213e2450c12060d) -- create socket head cap screws, plus the associated taps and counterbores
+
+[Thread Creator](https://cad.onshape.com/documents/6b640a407d78066bd5e41c7a/w/4693805578a72f40ebfb4ea3/e/f8aea9e5c33e02eab0854a4f) -- Creates internal and external threads
+
+[ANSI Washers](https://cad.onshape.com/documents/867babd232327bab6de5d8ec/w/4de5d9deada007ede08fade9/e/bdda2b451818b58aee3b5ffc) -- Creates standard sized ANSI washers
 
 ##  Gears, Drives, Shafts, and Pulleys
 [Metric Keys](https://cad.onshape.com/documents/06f4d2c9a0d032207955bba4/w/f3f035873933a2da328710b6/e/ac2daf5918dba515b9b0f3f5) -- Creates metric keys for shaft assembly.
