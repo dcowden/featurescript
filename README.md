@@ -115,9 +115,9 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 
 [Syncro Rotator Feature script](https://cad.onshape.com/documents/a0adddcc041efb15f8c3ad2a/w/4e997c4fe738a2030fa71786/e/8a74e08a2998e0d0e6ea7e87) -- create gear profiles automatically from another object
 
-[Measure Distance Extended](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- measure distance along curves between entities
+[Measure Value](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- measure distance along curves between entities
 
-[Wrap Curves around Surfaces](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) --Wraps sketched curves around cone and cylinder surfaces like 3d curves
+[Sketch Wrapper](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) --Wraps sketched curves around cone and cylinder surfaces like 3d curves
 
 [Curve Pattern Normal](https://cad.onshape.com/documents/57ef018093832a1090983bfe/w/58bcbe4474554bfb72f7ecbe/e/147da62eb78afe2ead98587f) -- allows you to orient the seed features/bodies/surfaces to maintain their normal position relative to a reference surface
 
@@ -127,12 +127,20 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 
 [Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1) --  generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point
 
-[Flex FS Curve Transforms](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline
+[Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline
 
-[Point Pattern ext](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db/w/ed2afaf5bd2d12066495dc84/e/a71ff51699ae36f356a38f69) -- point pattern that also works with objects built from body/feature/face and new/add/remoove/intersect
+[Transform pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db/w/ed2afaf5bd2d12066495dc84/e/a71ff51699ae36f356a38f69) -- point pattern that also works with objects built from body/feature/face and new/add/remoove/intersect
 
 [Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6f/w/25d8c7ecb4fba2c4e6eb34a4/e/bbc5cf0f6b3fc16186444e0d) -- make "configurations" of geometry with predefined references to a set of user-defined variables
 
-[Polyhedron FS](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- creates a maximum convex hull solid for any orderless set of 3D vertices
+[Convex Polyhedron FS](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- creates a maximum convex hull solid for any orderless set of 3D vertices
 
-[Variable section sweep ](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3/w/a2de18e932e02a4bd51d3af3/e/0b2c3849b5900737fa810e87) -- Proof of concept creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves
+[Variable section sweep](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3/w/a2de18e932e02a4bd51d3af3/e/0b2c3849b5900737fa810e87) -- Proof of concept creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves
+
+[3D Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/8695694c2f658a05d1fb7da2)
+-- Creates a round spiral along some spatial curve
+
+[Contour Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/e81812836b0902c719b1a125) -- Creates a spiral along the curve with user-defined cross section profile
+
+[Tracer FS](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1)
+-- Traces geometrical parameters of the motion of a flat mechanism defined by sketch, prints them to the console and created a dependency graph on XY work plane
