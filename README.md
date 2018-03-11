@@ -5,6 +5,8 @@
 
 FeatureScript is a way to extend [Onshape](http://www.onshape.com) with really cool custom features. Sadly, Onshape does not provide a 'featurescript store' that lists all of the really good ones.  The official [Onshape list of FeatureScripts](https://www.onshape.com/featurescript) is not comprehensive or categorized.
 
+*Full Disclosure* I created several features in the list below , but they make up a small fraction of the total, and they have not received any special categorization or treatment
+
 #### Submitting Changes/Additions
 Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend. 
 
