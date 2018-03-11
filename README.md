@@ -59,6 +59,10 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 
 [Flex FS Curve Transforms](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline
 
+[Extend Surface](https://cad.onshape.com/documents/b1b694bd5db0f702f9dc4b3b/w/436b0d32f2538e0e9150e29a/e/9b7dd4b542e8966b380198d6) -- Extends existing surface bodies.
+
+[Radiate Surface](https://cad.onshape.com/documents/0afe59275b703fb163481cb2/w/d6e11c501d3f9f704b83ae1b/e/6ff7d6128e0d839a8c5d356e) -- creates a surface that originates from a selection of edges, and is always parallel to a selected plane.
+
 ## Manufacturing and 3d Printing Features
 
 [Hex Infill](https://cad.onshape.com/documents/5729ffb4e4b077d8431a8cea/v/bba4125ec64df8c43c6e876c/e/8cb802c1a9080d5481747743) -- Creates an internally sparse structure of regular hexagons.
@@ -81,6 +85,8 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 
 [Fillet/Chamfer Feature Library](https://cad.onshape.com/documents/b1be5929c83cf76c063a2181/) -- The code behind the above features
 
+[Ports] (https://cad.onshape.com/documents/bdb01b008db20251b8a967ad/v/5c3738f65d5a91fcab3776c1/e/e2e1902a5981862d95b41429) -- creates SAE J1926 straight thread ports.
+
 ## Primitives
 [Polyhedron FS](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- creates a maximum convex hull solid for any orderless set of 3D vertices
 
@@ -89,9 +95,13 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 [Torus, Dome, and Sphere](https://cad.onshape.com/documents/05a8f21030b0b305f4416e1a/w/cef0965075e285708f925765/e/75de5e6cdbb573c13e61fbd5) -- Creates simple torus, dome, and spheres
 
 ## Structures
+[Beams](https://cad.onshape.com/documents/e15c2c668d138f01242d0c80/w/0664d65a957c7bfba7cfbddd/e/bd6831589391741e327fec75) -- Creates structural steel frames.
+
 [8020 Profile Generator](https://cad.onshape.com/documents/ccf713ca7463aeb3cbebce26/w/98577b0c5518f6fa1d06d69b/e/05fed5e3fd0d0ef69021b468) -- create 8020inc profiles
 
 [ANSI Steel Generator](https://cad.onshape.com/documents/b66d1ff63684957c167272d8/w/2ac42f22fbfa9366e2f4df35/e/33b8950d87918aefcb267a4f) -- creates standare AISC structure steel shapes
+
+[Airfoil](https://cad.onshape.com/documents/4bf18c75321ea2c8c2ea770d/w/978aece63f59e09169309756/e/b319e7a87bba701e3e02a0fa) -- Creates Aerofoils from NACA 4 digit standard or any Aerofoil in the UIUC Aerofoil Database, loft between them and then break the created wing into structural components.
 
 ## Fasteners, Threads, and Hardware
 [O ring generator](https://cad.onshape.com/documents/ae242486af63d55695d994a6/w/bd934a52d0bc030cc75b310f/e/6393ddee213a083563197321) -- create o-rings that will fit into existing grooves
@@ -102,7 +112,12 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 
 [ANSI Washers](https://cad.onshape.com/documents/867babd232327bab6de5d8ec/w/4de5d9deada007ede08fade9/e/bdda2b451818b58aee3b5ffc) -- Creates standard sized ANSI washers
 
+[Fix PCB](https://cad.onshape.com/documents/9a9b81d17d4b69e58ad9b0b0/v/c253688ad8add5efd222a709/e/3152191074466a8b45231663) -- Automate the geometric simplification of imported electrical components attached to a single PCB.
+
 ##  Gears, Drives, Shafts, and Pulleys
+
+[Spur Gear](https://cad.onshape.com/documents/5742c8cde4b06c68b362d748/v/16a222adf3cb9a3b33ed9536/e/c72760543a0d4412e72f6d38) -- Creates mathematically correct spur gears with optional center bore hole and keyway.
+
 [Metric Keys](https://cad.onshape.com/documents/06f4d2c9a0d032207955bba4/w/f3f035873933a2da328710b6/e/ac2daf5918dba515b9b0f3f5) -- Creates metric keys for shaft assembly.
 
 [Wave Spring](https://cad.onshape.com/documents/5720a838e4b0c6d25c8c1ff1/v/318b4a29b30263a0b42bf845/e/e72d25ce475e2cc4a10a25e6) -- Creates a wave spring at the origin with mate connectors at either end for easy transform or assembly.
@@ -120,7 +135,7 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 [Wiring](https://cad.onshape.com/documents/6dff8f67e2ef0b33193a10d2/w/ad1dd98bb99d14ca27c2eb74/e/0904f1281fabe33fcdd58945) -- Creates wire bundles that go through sketch points in 3D space.
 
 ## Text and Decorative
-[Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b/w/24132f252a02825eb0606641/e/67f132612739f155f5474819) -- Create embossed or raised text on flat and curved surfaces 
+[Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b/w/24132f252a02825eb0606641/e/7af1344ab1e54af102d0f4b9) -- Create embossed or raised text on flat and curved surfaces 
 
 ## Patterning 
 
@@ -149,7 +164,9 @@ FeatureScript is a way to extend [Onshape](www.onshape.com/featurescript) with r
 
 [Measure Distance Extended](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- measure distance along curves between entities
 
-[Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876) -- flatten a part into a set of flat parts for cutting out
+[Ray Tracer](https://cad.onshape.com/documents/258a19506c555f400614c944/w/74e657ae2800105e2874589a/e/71d75b30fc9a22f4a9b82a08) -- Simulates a ray of light reflecting off objects and refracting through them.
+
+[Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876) -- Flatten a part into a set of flat parts for cutting out
 
 ## Misc
 
