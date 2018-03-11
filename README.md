@@ -97,7 +97,7 @@ Feedback is welcome!
 
 [Fillet/Chamfer Feature Library](https://cad.onshape.com/documents/b1be5929c83cf76c063a2181/) -- The code behind the above features
 
-[Ports] (https://cad.onshape.com/documents/bdb01b008db20251b8a967ad/v/5c3738f65d5a91fcab3776c1/e/e2e1902a5981862d95b41429) -- creates SAE J1926 straight thread ports.
+[Ports](https://cad.onshape.com/documents/bdb01b008db20251b8a967ad/v/5c3738f65d5a91fcab3776c1/e/e2e1902a5981862d95b41429) -- creates SAE J1926 straight thread ports.
 
 [Full Round Fillet](https://cad.onshape.com/documents/3d52520839c0fa3587798c0f/v/6aeecc6792399b17f13b4e96/e/557d82915abb44038863f4b4) -- Creates fully rounded fillets
 
@@ -146,7 +146,6 @@ Feedback is welcome!
 
 [Syncro Rotator Feature script](https://cad.onshape.com/documents/a0adddcc041efb15f8c3ad2a/w/4e997c4fe738a2030fa71786/e/8a74e08a2998e0d0e6ea7e87) -- create gear profiles automatically from another object
 
-
 [Measure Value](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- measure distance along curves between entities
 
 [Sketch Wrapper](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) --Wraps sketched curves around cone and cylinder surfaces like 3d curves
@@ -166,13 +165,11 @@ Feedback is welcome!
 
 [Radial Pattern](https://cad.onshape.com/documents/57acdd79e4b01d53a1caf1f5/w/71a5841922caf49ccdf9c965/e/0aa03a35bf16af9cd999451b) -- circular pattern with option for radial second direction
 
-
 [Curve Pattern Normal](https://cad.onshape.com/documents/57ef018093832a1090983bfe/w/58bcbe4474554bfb72f7ecbe/e/147da62eb78afe2ead98587f) -- allows you to orient the seed features/bodies/surfaces to maintain their normal position relative to a reference surface
 
 [Sweep Normal](https://cad.onshape.com/documents/ba3c5f086342a4d4d9c66071/w/1555421c5cfaef36d93b3e6c/e/4aff2b3579595dea2b17a323) -- maintain a sweep profile's normalcy relative to a reference surface instead of the sweep path
 
 [RectToPolar](https://cad.onshape.com/documents/b59ab933bf1592e02614330f/w/a58753fdbb92959793980f44/e/ded816b2c095eb1569913c85) -- Creates flat cam profiles based on the 2d sketch with law of motion and sketch coordinate system (defined by mc).
-
 
 [Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1) --  generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point
 
