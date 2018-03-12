@@ -25,7 +25,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [T-slot Joints](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/w/8528f1c2d733302d4632f38e/e/7eab6eb8ff7dea85b9cc6a87 ) -- Creates t-slot joints from overlapping pieces
 
-[kerf compensation](https://cad.onshape.com/documents/57df36a88f63301089e8ac78/v/17d807acd78c9661ab3cbd3c/e/157268905828b0fc910e365b) -- Offsets all cut faces of a planar part to compensate for cutting kerf.
+[Kerf Compensation](https://cad.onshape.com/documents/57df36a88f63301089e8ac78/v/17d807acd78c9661ab3cbd3c/e/157268905828b0fc910e365b) -- Offsets all cut faces of a planar part to compensate for cutting kerf.
 
 [Featurescript Laser Joint](https://cad.onshape.com/documents/578830e4e4b0e65410f9c34e/w/d04a088a0a8ab8361a2aa65c/e/7af109b2f1cead90850525ae) -- Creates finger joints from overlapping geometry
 
