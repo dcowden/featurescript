@@ -47,7 +47,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Revolved Curve](https://cad.onshape.com/documents/57888f0ae4b0e65410f9ee45/w/00f05d637cc4efccb67d4981/e/5f73b2d7ec5f6975eb8bd7b2) -- Adds a revolved 3D curve with one of several shape profiles and configurable size, location, and pitch.
 
-[Parametric Surface](https://cad.onshape.com/documents/57a62df8e4b03de4c9fcf154/w/f6d71f3d862b522902efcd68/e/ece65382fcd820281a9ee704) -Creates a surface driven by an equation of the form z = f(x,y).
+[Parametric Surface](https://cad.onshape.com/documents/57a62df8e4b03de4c9fcf154/w/f6d71f3d862b522902efcd68/e/ece65382fcd820281a9ee704) -- Creates a surface driven by an equation of the form z = f(x,y).
 
 [Tangent Plane](https://cad.onshape.com/documents/68455a5d522e81cd65a35211/w/deb148ff386c8a32e35e7d65/e/929b7ca8aeee162bb0f129d9) -- Creates tangent planes to any surface with an orientation option of any vertex, plane or face.
 
@@ -65,7 +65,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [NACA Airfoil](https://cad.onshape.com/documents/972dc31f395640d97dd6edca/w/8125816b48d1d07ebf0af701/e/31fa0727e4e6c9eb38ab1bb4) -- Create an NACA airfoil by reading a CSV file
 
-[Sketch Wrapper](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) --Wraps sketched curves around cone and cylinder surfaces like 3d curves
+[Sketch Wrapper](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) -- Wraps sketched curves around cone and cylinder surfaces like 3d curves
 
 [Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1) --  Generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point
 
@@ -106,12 +106,12 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Fillet/Chamfer Feature Library](https://cad.onshape.com/documents/b1be5929c83cf76c063a2181/) -- An all-in-one feature that includes the above features
 
-[Ports](https://cad.onshape.com/documents/bdb01b008db20251b8a967ad/v/5c3738f65d5a91fcab3776c1/e/e2e1902a5981862d95b41429) -- creates SAE J1926 straight thread ports.
+[Ports](https://cad.onshape.com/documents/bdb01b008db20251b8a967ad/v/5c3738f65d5a91fcab3776c1/e/e2e1902a5981862d95b41429) -- Creates SAE J1926 straight thread ports.
 
 [Full Round Fillet](https://cad.onshape.com/documents/3d52520839c0fa3587798c0f/v/6aeecc6792399b17f13b4e96/e/557d82915abb44038863f4b4) -- Creates fully rounded fillets
 
 ## Primitives
-[Convex Polyhedron](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- creates a maximum convex hull solid for any orderless set of 3D vertices
+[Convex Polyhedron](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- Creates a maximum convex hull solid for any orderless set of 3D vertices
 
 [Bricks](https://cad.onshape.com/documents/573b8871e4b0fddafb4e953e/v/908fcfbeef98611836b245a9/e/a3e6fde07829a53a3ae8451e) -- Creates building bricks in various styles and sizes.
 
@@ -120,16 +120,16 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 ## Structures
 [Beams](https://cad.onshape.com/documents/e15c2c668d138f01242d0c80/w/0664d65a957c7bfba7cfbddd/e/bd6831589391741e327fec75) -- Creates structural steel frames.
 
-[8020 Profile Generator](https://cad.onshape.com/documents/ccf713ca7463aeb3cbebce26/w/98577b0c5518f6fa1d06d69b/e/05fed5e3fd0d0ef69021b468) -- create 8020inc profiles
+[8020 Profile Generator](https://cad.onshape.com/documents/ccf713ca7463aeb3cbebce26/w/98577b0c5518f6fa1d06d69b/e/05fed5e3fd0d0ef69021b468) -- Creates 8020inc profiles
 
-[ANSI Steel Generator](https://cad.onshape.com/documents/b66d1ff63684957c167272d8/w/2ac42f22fbfa9366e2f4df35/e/33b8950d87918aefcb267a4f) -- creates standare AISC structure steel shapes
+[ANSI Steel Generator](https://cad.onshape.com/documents/b66d1ff63684957c167272d8/w/2ac42f22fbfa9366e2f4df35/e/33b8950d87918aefcb267a4f) -- Creates standard AISC structure steel shapes
 
 [Airfoil](https://cad.onshape.com/documents/4bf18c75321ea2c8c2ea770d/w/978aece63f59e09169309756/e/b319e7a87bba701e3e02a0fa) -- Creates Aerofoils from NACA 4 digit standard or any Aerofoil in the UIUC Aerofoil Database, loft between them and then break the created wing into structural components.
 
 ## Fasteners, Threads, and Hardware
-[O ring generator](https://cad.onshape.com/documents/ae242486af63d55695d994a6/w/bd934a52d0bc030cc75b310f/e/6393ddee213a083563197321) -- create o-rings that will fit into existing grooves
+[O ring generator](https://cad.onshape.com/documents/ae242486af63d55695d994a6/w/bd934a52d0bc030cc75b310f/e/6393ddee213a083563197321) -- Creates o-rings that will fit into existing grooves
 
-[Socket Head Cap Screw creator](https://cad.onshape.com/documents/2d7e0a6b68c2039da4221ebc/w/06d0026261b3d9bb908f74a1/e/55810c25d213e2450c12060d) -- create socket head cap screws, plus the associated taps and counterbores
+[Socket Head Cap Screw creator](https://cad.onshape.com/documents/2d7e0a6b68c2039da4221ebc/w/06d0026261b3d9bb908f74a1/e/55810c25d213e2450c12060d) -- Creates socket head cap screws, plus the associated taps and counterbores
 
 [Thread Creator](https://cad.onshape.com/documents/6b640a407d78066bd5e41c7a/w/4693805578a72f40ebfb4ea3/e/f8aea9e5c33e02eab0854a4f) -- Creates internal and external threads
 
@@ -153,42 +153,42 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Drive Train Generator](https://cad.onshape.com/documents/6527d86ca7126bbe5b04ca08/w/0cbb5f0cf21f029b0851e42c/e/3ea2b29bac4713685544dc37)  -- Creates gear drive trains based on sketch points selected and a final desired reduction ratio. An optional optimization algorithm can be enabled to make precise reductions.
 
-[Syncro Rotator](https://cad.onshape.com/documents/a0adddcc041efb15f8c3ad2a/w/4e997c4fe738a2030fa71786/e/8a74e08a2998e0d0e6ea7e87) -- create gear profiles automatically from another object
+[Syncro Rotator](https://cad.onshape.com/documents/a0adddcc041efb15f8c3ad2a/w/4e997c4fe738a2030fa71786/e/8a74e08a2998e0d0e6ea7e87) -- Creates gear profiles automatically from another object
 
 [Wiring](https://cad.onshape.com/documents/6dff8f67e2ef0b33193a10d2/w/ad1dd98bb99d14ca27c2eb74/e/0904f1281fabe33fcdd58945) -- Creates wire bundles that go through sketch points in 3D space.
 
 ## Text and Decorative
-[Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b/w/24132f252a02825eb0606641/e/7af1344ab1e54af102d0f4b9) -- Create embossed or raised text on flat and curved surfaces 
+[Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b/w/24132f252a02825eb0606641/e/7af1344ab1e54af102d0f4b9) -- Creates embossed or raised text on flat and curved surfaces 
 
 ## Patterning 
 
-[Point Pattern](https://cad.onshape.com/documents/9fca78cb66a0bc83e359eb3e/v/7b8e02af4e9b52af8d3ba60b/e/d7f44d3f530f6db8852edfeb) -- Pattern parts at sketch vertices.
+[Point Pattern](https://cad.onshape.com/documents/9fca78cb66a0bc83e359eb3e/v/7b8e02af4e9b52af8d3ba60b/e/d7f44d3f530f6db8852edfeb) -- Patterns parts at sketch vertices.
 
 [Fill Pattern](https://cad.onshape.com/documents/57361ad4e4b00e5012c3857c/v/77e52ccc47a42371185767df/e/14aa44d127806651b248b9c6) -- Patterns faces within a target face while avoiding the boundary of the face.
 
 [Circular Pattern](https://cad.onshape.com/documents/57b7740ce4b002b1d76d73b8/w/74ebb8e6fc5c218c0891f528/e/ddd2eb42189ff78a6e53fa34) -- Adds radial direction and seed location options to Onshape’s standard circular pattern.
 
-[Radial Pattern](https://cad.onshape.com/documents/57acdd79e4b01d53a1caf1f5/w/71a5841922caf49ccdf9c965/e/0aa03a35bf16af9cd999451b) -- circular pattern with option for radial second direction
+[Radial Pattern](https://cad.onshape.com/documents/57acdd79e4b01d53a1caf1f5/w/71a5841922caf49ccdf9c965/e/0aa03a35bf16af9cd999451b) -- Circular pattern with option for radial second direction
 
-[Curve Pattern Normal](https://cad.onshape.com/documents/57ef018093832a1090983bfe/w/58bcbe4474554bfb72f7ecbe/e/147da62eb78afe2ead98587f) -- allows you to orient the seed features/bodies/surfaces to maintain their normal position relative to a reference surface
+[Curve Pattern Normal](https://cad.onshape.com/documents/57ef018093832a1090983bfe/w/58bcbe4474554bfb72f7ecbe/e/147da62eb78afe2ead98587f) -- Allows you to orient the seed features/bodies/surfaces to maintain their normal position relative to a reference surface
 
-[Sweep Normal](https://cad.onshape.com/documents/ba3c5f086342a4d4d9c66071/w/1555421c5cfaef36d93b3e6c/e/4aff2b3579595dea2b17a323) -- maintain a sweep profile's normalcy relative to a reference surface instead of the sweep path
+[Sweep Normal](https://cad.onshape.com/documents/ba3c5f086342a4d4d9c66071/w/1555421c5cfaef36d93b3e6c/e/4aff2b3579595dea2b17a323) -- Maintains a sweep profile's normalcy relative to a reference surface instead of the sweep path
 
-[Transform pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db/w/ed2afaf5bd2d12066495dc84/e/a71ff51699ae36f356a38f69) -- transforms faces, bodies or features to the positions defined by vertices or mate connectors.
+[Transform pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db/w/ed2afaf5bd2d12066495dc84/e/a71ff51699ae36f356a38f69) -- Transforms faces, bodies or features to the positions defined by vertices or mate connectors.
 For body transfoms allows new/add/remoove/intersect options.
 
-[Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6f/w/25d8c7ecb4fba2c4e6eb34a4/e/bbc5cf0f6b3fc16186444e0d) -- make "configurations" of geometry with predefined references to a set of user-defined variables
+[Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6f/w/25d8c7ecb4fba2c4e6eb34a4/e/bbc5cf0f6b3fc16186444e0d) -- Creates "configurations" of geometry with predefined references to a set of user-defined variables
 
 ## Analysis
-[Calculate Bounds](https://cad.onshape.com/documents/2ce3e64026df1ac7e63b98bd/) -- computes the bounds of selected objects
+[Calculate Bounds](https://cad.onshape.com/documents/2ce3e64026df1ac7e63b98bd/) -- Computes the bounds of selected objects
 
-[Measure Value](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- measure distance, angle, perimeter, area or volume for selected entities and saves the result to the variable
+[Measure Value](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- Measures distance, angle, perimeter, area or volume for selected entities and saves the result to the variable
 
 [Tracer FS](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1)
 -- Traces geometrical parameters of the motion of a flat mechanism defined by sketch, prints them to the console and created a dependency graph on XY work plane
 
 [Ray Tracer](https://cad.onshape.com/documents/258a19506c555f400614c944/w/74e657ae2800105e2874589a/e/71d75b30fc9a22f4a9b82a08) -- Simulates a ray of light reflecting off objects and refracting through them.
 
-[Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876) -- Flatten a part into a set of flat parts for cutting out
+[Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876) -- Flattens a part into a set of flat parts for cutting out
 
 ## Misc
