@@ -82,6 +82,8 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Radiate Surface](https://cad.onshape.com/documents/0afe59275b703fb163481cb2/w/d6e11c501d3f9f704b83ae1b/e/6ff7d6128e0d839a8c5d356e) -- Creates a surface that originates from a selection of edges, and is always parallel to a selected plane.
 
+[Ortho Lines](https://cad.onshape.com/documents/5a344daad1ec87e14cdb6dc6/v/132d1994587e7ba9f8a6f438/e/aa12d914d70aad241d8c51aa) -- Quickly create orthogonal lines in the same plane
+
 ## Manufacturing and 3d Printing Features
 
 [Hex Infill](https://cad.onshape.com/documents/5729ffb4e4b077d8431a8cea/v/bba4125ec64df8c43c6e876c/e/8cb802c1a9080d5481747743) -- Creates an internally sparse structure of regular hexagons.
