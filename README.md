@@ -41,8 +41,6 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [3D Spline](https://cad.onshape.com/documents/573f7b36e4b02e83c71782fc/v/4e54a08374e12db1056f3bc2/e/5718da06c22e7b08a5fb58b3) -- Creates an optionally closed spline curve through a sequence of vertices.
 
-[Measure Distance](https://cad.onshape.com/documents/572b968ce4b07aad125dbaaf/v/08093fef6c4d4f330f24dd19/e/b40df94c5081948fe8195e81) -- Measures the distance between two things in a Part Studio and assigns the result to a variable.
-
 [Multi-plane](https://cad.onshape.com/documents/575857fae4b06a2590ec9d29/w/7a682d53abc1dbd6192f8299/e/be58c81aba88f5738dd746a5) -- Creates multiple, evenly spaced planes from a single reference plane or open/closed 2D or 3D edge
 
 [Revolved Curve](https://cad.onshape.com/documents/57888f0ae4b0e65410f9ee45/w/00f05d637cc4efccb67d4981/e/5f73b2d7ec5f6975eb8bd7b2) -- Adds a revolved 3D curve with one of several shape profiles and configurable size, location, and pitch.
@@ -71,7 +69,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline
 
-[RectToPolar](https://cad.onshape.com/documents/b59ab933bf1592e02614330f/w/a58753fdbb92959793980f44/e/ded816b2c095eb1569913c85) -- Creates flat cam profiles based on the 2d sketch with law of motion and sketch coordinate system (defined by mc).
+[RectToPolar](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/5831eadf8d16fc3e23560404) -- Creates flat cam profiles based on the 2d sketch with law of motion and sketch coordinate system (defined by mc).
 
 [3D Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/8695694c2f658a05d1fb7da2)
 -- Creates a circular spiral along some spatial curve
@@ -181,6 +179,8 @@ For body transfoms allows new/add/remoove/intersect options.
 
 ## Analysis
 [Calculate Bounds](https://cad.onshape.com/documents/2ce3e64026df1ac7e63b98bd/) -- computes the bounds of selected objects
+
+[Measure Distance](https://cad.onshape.com/documents/572b968ce4b07aad125dbaaf/v/08093fef6c4d4f330f24dd19/e/b40df94c5081948fe8195e81) -- Measures the distance between two things in a Part Studio and assigns the result to a variable.
 
 [Measure Value](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- measure distance, angle, perimeter, area or volume for selected entities and saves the result to the variable
 
