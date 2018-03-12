@@ -23,13 +23,13 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [T-slot Bolted Joint](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/v/59c55ebbb7f52936dae70676/e/acc455ae2adcf11a571ba510) -- Creates a T-slot bolted connection between two planar parts.
 
-[T-slot Joints](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/w/8528f1c2d733302d4632f38e/e/7eab6eb8ff7dea85b9cc6a87 ) -- create t-slot joints from overlapping pieces
+[T-slot Joints](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/w/8528f1c2d733302d4632f38e/e/7eab6eb8ff7dea85b9cc6a87 ) -- Creates t-slot joints from overlapping pieces
 
 [kerf compensation](https://cad.onshape.com/documents/57df36a88f63301089e8ac78/v/17d807acd78c9661ab3cbd3c/e/157268905828b0fc910e365b) -- Offsets all cut faces of a planar part to compensate for cutting kerf.
 
-[Featurescript Laser Joint](https://cad.onshape.com/documents/578830e4e4b0e65410f9c34e/w/d04a088a0a8ab8361a2aa65c/e/7af109b2f1cead90850525ae) -- create finger joints from overlapping geometry
+[Featurescript Laser Joint](https://cad.onshape.com/documents/578830e4e4b0e65410f9c34e/w/d04a088a0a8ab8361a2aa65c/e/7af109b2f1cead90850525ae) -- Creates finger joints from overlapping geometry
 
-[Break off Tabs](https://cad.onshape.com/documents/eea009fcf35a0cd683265767/v/467c5a5872fdde831846abc9/e/b692addf96e4fd22a1078b04) -- creates tabs that easily break off.
+[Break off Tabs](https://cad.onshape.com/documents/eea009fcf35a0cd683265767/v/467c5a5872fdde831846abc9/e/b692addf96e4fd22a1078b04) -- Creates tabs that easily break off.
 
 ## Surfaces, Curves, and Geometry
 
@@ -55,21 +55,21 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [3D points](https://cad.onshape.com/documents/502108ab33bd9af500b73c1a/w/68f73347f084d40c31271b24/e/8941bf3c5c73cd9db49e2134) -- Import 3d points from text
 
-[Offset Faces](https://cad.onshape.com/documents/323312569b42b381b93ee95c/w/4feba228409d550cfecc4193/e/4f18ff5b4caf83cc9e65fee9) -- offset one or more faces
+[Offset Faces](https://cad.onshape.com/documents/323312569b42b381b93ee95c/w/4feba228409d550cfecc4193/e/4f18ff5b4caf83cc9e65fee9) -- Offset one or more faces
 
-[Parametric Curve](https://cad.onshape.com/documents/578ff8b3e4b0e65410fcfda3/w/d33395f174e5b38f4abd6097/e/cc0c3d5644a78b1b64d6c3b4) -- create curves described by equations
+[Parametric Curve](https://cad.onshape.com/documents/578ff8b3e4b0e65410fcfda3/w/d33395f174e5b38f4abd6097/e/cc0c3d5644a78b1b64d6c3b4) -- Create curves described by equations
 
-[Parametric Surface](https://cad.onshape.com/documents/57a62df8e4b03de4c9fcf154/w/f6d71f3d862b522902efcd68/e/ece65382fcd820281a9ee704) --  generate surfaces with equations
+[Parametric Surface](https://cad.onshape.com/documents/57a62df8e4b03de4c9fcf154/w/f6d71f3d862b522902efcd68/e/ece65382fcd820281a9ee704) --  Generates surfaces with equations
 
-[Multi Plane 2](https://cad.onshape.com/documents/578d3ba3e4b0fe44cbff7c02/w/2d7c55bd5d5ed951e86c0b0c/e/566edf8fb019ed25389d7d92) -- same as Onshape's Multi Plane but with a rotated plane array option
+[Multi Plane 2](https://cad.onshape.com/documents/578d3ba3e4b0fe44cbff7c02/w/2d7c55bd5d5ed951e86c0b0c/e/566edf8fb019ed25389d7d92) -- This is the same as Onshape's Multi Plane but with a rotated plane array option
 
 [NACA Airfoil](https://cad.onshape.com/documents/972dc31f395640d97dd6edca/w/8125816b48d1d07ebf0af701/e/31fa0727e4e6c9eb38ab1bb4) -- Create an NACA airfoil by reading a CSV file
 
 [Sketch Wrapper](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) --Wraps sketched curves around cone and cylinder surfaces like 3d curves
 
-[Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1) --  generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point
+[Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1) --  Generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point
 
-[Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline
+[Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- Takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline
 
 [RectToPolar](https://cad.onshape.com/documents/b59ab933bf1592e02614330f/w/a58753fdbb92959793980f44/e/ded816b2c095eb1569913c85) -- Creates flat cam profiles based on the 2d sketch with law of motion and sketch coordinate system (defined by mc).
 
@@ -78,11 +78,11 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Contour Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/e81812836b0902c719b1a125) -- Creates a spiral along the curve with user-defined cross section profile
 
-[Variable section sweep ](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3/w/a2de18e932e02a4bd51d3af3/e/0b2c3849b5900737fa810e87) -- Proof of concept creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves
+[Variable section sweep ](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3/w/a2de18e932e02a4bd51d3af3/e/0b2c3849b5900737fa810e87) -- Proof of concept that creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves
 
 [Extend Surface](https://cad.onshape.com/documents/b1b694bd5db0f702f9dc4b3b/w/436b0d32f2538e0e9150e29a/e/9b7dd4b542e8966b380198d6) -- Extends existing surface bodies.
 
-[Radiate Surface](https://cad.onshape.com/documents/0afe59275b703fb163481cb2/w/d6e11c501d3f9f704b83ae1b/e/6ff7d6128e0d839a8c5d356e) -- creates a surface that originates from a selection of edges, and is always parallel to a selected plane.
+[Radiate Surface](https://cad.onshape.com/documents/0afe59275b703fb163481cb2/w/d6e11c501d3f9f704b83ae1b/e/6ff7d6128e0d839a8c5d356e) -- Creates a surface that originates from a selection of edges, and is always parallel to a selected plane.
 
 ## Manufacturing and 3d Printing Features
 
@@ -96,15 +96,15 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [End Flange](https://cad.onshape.com/documents/57886436e4b038b786de90ff/w/a346f741ea5d63b5276aa8dc/e/d5d801a3b8477b59af1ac958) -- Allows you to add a flange onto a planar surface of a solid body.
 
-[Pocket Holes](https://cad.onshape.com/documents/5c9f5a0c9e9568a64f8fce0f/w/5f5fb2a214796377ad0d8f98/e/6290b4d3ef8ef9df035b121a ) -- create pocket holes from vertices
+[Pocket Holes](https://cad.onshape.com/documents/5c9f5a0c9e9568a64f8fce0f/w/5f5fb2a214796377ad0d8f98/e/6290b4d3ef8ef9df035b121a ) -- Create pocket holes from vertices
 
-[Fillet/Chamfer Everything](https://cad.onshape.com/documents/7793b338094a4f1de2017739/) Fillet or Chamfers lots of edges at once
+[Fillet/Chamfer Everything](https://cad.onshape.com/documents/7793b338094a4f1de2017739/) -- Fillet or Chamfers lots of edges at once
 
-[Fillet/Chamfer Xtended](https://cad.onshape.com/documents/5fa8fd94e7c46ccddd1dedae/) Fillet/Chamfer a group of parts
+[Fillet/Chamfer Xtended](https://cad.onshape.com/documents/5fa8fd94e7c46ccddd1dedae/) -- Fillet/Chamfer a group of parts
 
-[Fillet/Chamfer Part](https://cad.onshape.com/documents/af7aca4be9fa68afb7279d46/) Fillet/Chamfer all edges in a single part
+[Fillet/Chamfer Part](https://cad.onshape.com/documents/af7aca4be9fa68afb7279d46/) -- Fillet/Chamfer all edges in a single part
 
-[Fillet/Chamfer Feature Library](https://cad.onshape.com/documents/b1be5929c83cf76c063a2181/) -- The code behind the above features
+[Fillet/Chamfer Feature Library](https://cad.onshape.com/documents/b1be5929c83cf76c063a2181/) -- An all-in-one feature that includes the above features
 
 [Ports](https://cad.onshape.com/documents/bdb01b008db20251b8a967ad/v/5c3738f65d5a91fcab3776c1/e/e2e1902a5981862d95b41429) -- creates SAE J1926 straight thread ports.
 
