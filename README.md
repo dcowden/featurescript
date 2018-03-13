@@ -196,3 +196,5 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Sheet Metal Model Xtended](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options.
 <!-- Feature above needs to be removed in the next release of Onshape (1.77), as the feature is going to be included in the release. -->
+
+[Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c) -- A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
