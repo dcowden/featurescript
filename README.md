@@ -170,6 +170,8 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Circular Pattern](https://cad.onshape.com/documents/57b7740ce4b002b1d76d73b8/w/74ebb8e6fc5c218c0891f528/e/ddd2eb42189ff78a6e53fa34) -- Adds radial direction and seed location options to Onshape’s standard circular pattern.
 
+[Linear P:attern](https://cad.onshape.com/documents/71cc9029c61a48f5de3430d3} -- Adds a third direction to Onshape's standard linear pattern.
+
 [Curve Pattern Normal](https://cad.onshape.com/documents/57ef018093832a1090983bfe/w/58bcbe4474554bfb72f7ecbe/e/147da62eb78afe2ead98587f) -- Allows you to orient the seed features/bodies/surfaces to maintain their normal position relative to a reference surface.
 
 [Sweep Normal](https://cad.onshape.com/documents/ba3c5f086342a4d4d9c66071/w/1555421c5cfaef36d93b3e6c/e/4aff2b3579595dea2b17a323) -- Maintains a sweep profile's normalcy relative to a reference surface instead of the sweep path.
