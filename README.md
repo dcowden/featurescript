@@ -169,7 +169,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Circular Pattern](https://cad.onshape.com/documents/57b7740ce4b002b1d76d73b8/w/74ebb8e6fc5c218c0891f528/e/ddd2eb42189ff78a6e53fa34) -- Adds radial direction and seed location options to Onshape’s standard circular pattern.
 
-[Linear Pattern](https://cad.onshape.com/documents/71cc9029c61a48f5de3430d3} -- Adds a third direction to Onshape's standard linear pattern.
+[Linear Pattern](https://cad.onshape.com/documents/71cc9029c61a48f5de3430d3) -- Adds a third direction to Onshape's standard linear pattern.
 
 [Linear Pattern With Seed Location](https://cad.onshape.com/documents/57b77f0de4b0a399ffb138eb/w/65d6f78c04fa81878bb2e0e4/e/a0f2afc7f1c42d09f31ac5db) -- Adds ability to select seed location to linear pattern
 
@@ -197,7 +197,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 ## Misc
 
+[Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c) -- A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
+
 [Sheet Metal Model Xtended](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options.
 <!-- Feature above needs to be removed in the next release of Onshape (1.77), as the feature is going to be included in the release. -->
-
-[Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c) -- A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
