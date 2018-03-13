@@ -13,77 +13,76 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 
 ## Joinery
-[Lap Joint](https://cad.onshape.com/documents/578ce95de4b0e425c1f00cda/w/cbc0b1ab48f411a4675afae1/e/6dbd408b8dc213a84767ec69) -- Creates a lap joint between two parts with rectangular sections.
 
-[Snap Hook](https://cad.onshape.com/documents/5738c1f6e4b06c68b35e66aa/v/668674c951100573af45a415/e/77103724366528a36672a978) -- Creates a snap hook - a common fastening feature in plastic part design.
-
-[Mortise and Tenon](https://cad.onshape.com/documents/57ebf15e06acf910d5ac1b09/w/5ad1d8c8be840c2c6f8f02b6/e/242e3449f5f40725d9f585ab) -- Creates a mortise and tenon joint.
+[Break off Tabs](https://cad.onshape.com/documents/eea009fcf35a0cd683265767/v/467c5a5872fdde831846abc9/e/b692addf96e4fd22a1078b04) -- Creates sheet metal tabs that easily break off.
 
 [Box/Dovetail Joint](https://cad.onshape.com/documents/57612867e4b018f59e4d52ce/w/1e657f13b93a753115dcbd12/e/29340b9ea8177088647ffe75) -- Creates a finger joint or dovetail joint between two parts.
-
-[T-slot Bolted Joint](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/v/59c55ebbb7f52936dae70676/e/acc455ae2adcf11a571ba510) -- Creates a T-slot bolted connection between two planar parts.
-
-[T-slot Joints](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/w/8528f1c2d733302d4632f38e/e/7eab6eb8ff7dea85b9cc6a87) -- Creates T-slot joints from overlapping pieces.
 
 [Kerf Compensation](https://cad.onshape.com/documents/57df36a88f63301089e8ac78/v/17d807acd78c9661ab3cbd3c/e/157268905828b0fc910e365b) -- Offsets all cut faces of a planar part to compensate for cutting kerf.
 
 [Featurescript Laser Joint](https://cad.onshape.com/documents/578830e4e4b0e65410f9c34e/w/d04a088a0a8ab8361a2aa65c/e/7af109b2f1cead90850525ae) -- Creates finger joints from overlapping geometry.
 
-[Break off Tabs](https://cad.onshape.com/documents/eea009fcf35a0cd683265767/v/467c5a5872fdde831846abc9/e/b692addf96e4fd22a1078b04) -- Creates sheet metal tabs that easily break off.
+[Lap Joint](https://cad.onshape.com/documents/578ce95de4b0e425c1f00cda/w/cbc0b1ab48f411a4675afae1/e/6dbd408b8dc213a84767ec69) -- Creates a lap joint between two parts with rectangular sections.
+
+[Mortise and Tenon](https://cad.onshape.com/documents/57ebf15e06acf910d5ac1b09/w/5ad1d8c8be840c2c6f8f02b6/e/242e3449f5f40725d9f585ab) -- Creates a mortise and tenon joint.
+
+[Snap Hook](https://cad.onshape.com/documents/5738c1f6e4b06c68b35e66aa/v/668674c951100573af45a415/e/77103724366528a36672a978) -- Creates a snap hook - a common fastening feature in plastic part design.
+
+[T-slot Bolted Joint](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/v/59c55ebbb7f52936dae70676/e/acc455ae2adcf11a571ba510) -- Creates a T-slot bolted connection between two planar parts.
+
+[T-slot Joints](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35/w/8528f1c2d733302d4632f38e/e/7eab6eb8ff7dea85b9cc6a87) -- Creates T-slot joints from overlapping pieces.
 
 ## Surfaces, Curves, and Geometry
 
-[Surface Pattern](https://cad.onshape.com/documents/6988ff60065e4c34350ca5e1/w/05b4b3df185502c24c426678/e/5609d290e6b16e8c2a12cf12) -- Patterns a part across a surface of a body, either subtracting the part from the body or adding to it.
-
-[Fit Spline](https://cad.onshape.com/documents/4921880a2a6769256992599d/w/9ca359dbf967f3795856383a/e/3ce1f9c3b9012af4970f7490) -- Takes one or more splines and fits one spline through them.
-
-[Sculpt Face](https://cad.onshape.com/documents/b8730d44070bc0466ad80444/w/b111d39908fbb971f1521124/e/ac06e040069e0768a2d6b6fb) -- Allows you to sculpt a face by adjusting the underlying surface using manipulators.
-
-[3D Spline](https://cad.onshape.com/documents/573f7b36e4b02e83c71782fc/v/4e54a08374e12db1056f3bc2/e/5718da06c22e7b08a5fb58b3) -- Creates an optionally closed spline through a sequence of vertices.
-
-[Multi-Plane](https://cad.onshape.com/documents/575857fae4b06a2590ec9d29/w/7a682d53abc1dbd6192f8299/e/be58c81aba88f5738dd746a5) -- Creates multiple, evenly spaced planes from a single reference plane or open/closed 2D or 3D edge.
-
-[Revolved Curve](https://cad.onshape.com/documents/57888f0ae4b0e65410f9ee45/w/00f05d637cc4efccb67d4981/e/5f73b2d7ec5f6975eb8bd7b2) -- Adds a revolved 3D curve with one of several shape profiles and configurable size, location, and pitch.
-
-[Parametric Surface](https://cad.onshape.com/documents/57a62df8e4b03de4c9fcf154/w/f6d71f3d862b522902efcd68/e/ece65382fcd820281a9ee704) -- Creates a surface driven by an equation of the form z = f(x,y).
-
-[Tangent Plane](https://cad.onshape.com/documents/68455a5d522e81cd65a35211/w/deb148ff386c8a32e35e7d65/e/929b7ca8aeee162bb0f129d9) -- Creates tangent planes to any surface with an orientation option of any vertex, plane or face.
-
-[Enhanced Planes](https://cad.onshape.com/documents/0de04acb5bac92ca16796edf/w/cdd1d1882311084fe54bff24/e/daaec91732ca5add243c90dd) -- Create planes tangent to surfaces and other ways.
-
 [3D Points](https://cad.onshape.com/documents/502108ab33bd9af500b73c1a/w/68f73347f084d40c31271b24/e/8941bf3c5c73cd9db49e2134) -- Import 3d points from text input.
 
-[Offset Faces](https://cad.onshape.com/documents/323312569b42b381b93ee95c/w/4feba228409d550cfecc4193/e/4f18ff5b4caf83cc9e65fee9) -- Offsets one or more faces.
-<!-- Is this really needed as Onshape has this feature? -->
-
-[Parametric Curve](https://cad.onshape.com/documents/578ff8b3e4b0e65410fcfda3/w/d33395f174e5b38f4abd6097/e/cc0c3d5644a78b1b64d6c3b4) -- Creates curves described by equations.
-
-[Parametric Surface](https://cad.onshape.com/documents/57a62df8e4b03de4c9fcf154/w/f6d71f3d862b522902efcd68/e/ece65382fcd820281a9ee704) --  Generates surfaces with equations.
-
-[Multi Plane 2](https://cad.onshape.com/documents/578d3ba3e4b0fe44cbff7c02/w/2d7c55bd5d5ed951e86c0b0c/e/566edf8fb019ed25389d7d92) -- This is the same as the Mult-Plane custom feature, but with a rotated plane array option.
-
-[NACA Airfoil](https://cad.onshape.com/documents/972dc31f395640d97dd6edca/w/8125816b48d1d07ebf0af701/e/31fa0727e4e6c9eb38ab1bb4) -- Create an NACA airfoil by reading a CSV file.
-
-[Sketch Wrapper](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) -- Wraps sketched curves around cone and cylinder surfaces like 3d curves.
-
-[Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1) --  Generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point.
-
-[Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- Takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline.
-
-[RectToPolar](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/5831eadf8d16fc3e23560404) -- Creates flat cam profiles based on the 2d sketch with law of motion and sketch coordinate system (defined by mc).
+[3D Spline](https://cad.onshape.com/documents/573f7b36e4b02e83c71782fc/v/4e54a08374e12db1056f3bc2/e/5718da06c22e7b08a5fb58b3) -- Creates an optionally closed spline through a sequence of vertices.
 
 [3D Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/8695694c2f658a05d1fb7da2)
 -- Creates a circular spiral along some spatial curve.
 
 [Contour Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2/w/a6cb15bca8f1b2bf6e312ccd/e/e81812836b0902c719b1a125) -- Creates a spiral along the curve with user-defined cross section profile.
 
-[Variable Section Sweep](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3/w/a2de18e932e02a4bd51d3af3/e/0b2c3849b5900737fa810e87) -- Proof of concept that creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves.
+[Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1) --  Generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point.
+
+[Enhanced Planes](https://cad.onshape.com/documents/0de04acb5bac92ca16796edf/w/cdd1d1882311084fe54bff24/e/daaec91732ca5add243c90dd) -- Create planes tangent to surfaces and other ways.
 
 [Extend Surface](https://cad.onshape.com/documents/b1b694bd5db0f702f9dc4b3b/w/436b0d32f2538e0e9150e29a/e/9b7dd4b542e8966b380198d6) -- Extends existing surface bodies.
 
-[Radiate Surface](https://cad.onshape.com/documents/0afe59275b703fb163481cb2/w/d6e11c501d3f9f704b83ae1b/e/6ff7d6128e0d839a8c5d356e) -- Creates a surface that originates from a selection of edges, and is always parallel to a selected plane.
+[Fit Spline](https://cad.onshape.com/documents/4921880a2a6769256992599d/w/9ca359dbf967f3795856383a/e/3ce1f9c3b9012af4970f7490) -- Takes one or more splines and fits one spline through them.
+
+[Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/964f73eb0179aad8733b9f23) -- Takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline.
+
+[Multi-Plane](https://cad.onshape.com/documents/575857fae4b06a2590ec9d29/w/7a682d53abc1dbd6192f8299/e/be58c81aba88f5738dd746a5) -- Creates multiple, evenly spaced planes from a single reference plane or open/closed 2D or 3D edge.
+
+[Multi-Plane 2](https://cad.onshape.com/documents/578d3ba3e4b0fe44cbff7c02/w/2d7c55bd5d5ed951e86c0b0c/e/566edf8fb019ed25389d7d92) -- This is the same as the Mult-Plane custom feature, but with a rotated plane array option.
+
+[NACA Airfoil](https://cad.onshape.com/documents/972dc31f395640d97dd6edca/w/8125816b48d1d07ebf0af701/e/31fa0727e4e6c9eb38ab1bb4) -- Create an NACA airfoil by reading a CSV file.
 
 [Ortho Lines](https://cad.onshape.com/documents/5a344daad1ec87e14cdb6dc6/v/132d1994587e7ba9f8a6f438/e/aa12d914d70aad241d8c51aa) -- Quickly create orthogonal lines in the same plane.
+
+[Offset Faces](https://cad.onshape.com/documents/323312569b42b381b93ee95c/w/4feba228409d550cfecc4193/e/4f18ff5b4caf83cc9e65fee9) -- Offsets one or more faces.
+<!-- Is this really needed as Onshape has this feature? -->
+
+[Parametric Curve](https://cad.onshape.com/documents/578ff8b3e4b0e65410fcfda3/w/d33395f174e5b38f4abd6097/e/cc0c3d5644a78b1b64d6c3b4) -- Creates curves described by equations.
+
+[Parametric Surface](https://cad.onshape.com/documents/57a62df8e4b03de4c9fcf154/w/f6d71f3d862b522902efcd68/e/ece65382fcd820281a9ee704) -- Creates a surface driven by an equation of the form z = f(x,y).
+
+[Radiate Surface](https://cad.onshape.com/documents/0afe59275b703fb163481cb2/w/d6e11c501d3f9f704b83ae1b/e/6ff7d6128e0d839a8c5d356e) -- Creates a surface that originates from a selection of edges, and is always parallel to a selected plane.
+
+[RectToPolar](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/5831eadf8d16fc3e23560404) -- Creates flat cam profiles based on the 2d sketch with law of motion and sketch coordinate system (defined by mc).
+
+[Revolved Curve](https://cad.onshape.com/documents/57888f0ae4b0e65410f9ee45/w/00f05d637cc4efccb67d4981/e/5f73b2d7ec5f6975eb8bd7b2) -- Adds a revolved 3D curve with one of several shape profiles and configurable size, location, and pitch.
+
+[Sculpt Face](https://cad.onshape.com/documents/b8730d44070bc0466ad80444/w/b111d39908fbb971f1521124/e/ac06e040069e0768a2d6b6fb) -- Allows you to sculpt a face by adjusting the underlying surface using manipulators.
+
+[Sketch Wrapper](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99/w/b4493d47a45c27ce485c84b9/e/c8050a35a7417c12b801bd40) -- Wraps sketched curves around cone and cylinder surfaces like 3d curves.
+
+[Surface Pattern](https://cad.onshape.com/documents/6988ff60065e4c34350ca5e1/w/05b4b3df185502c24c426678/e/5609d290e6b16e8c2a12cf12) -- Patterns a part across a surface of a body, either subtracting the part from the body or adding to it.
+
+[Tangent Plane](https://cad.onshape.com/documents/68455a5d522e81cd65a35211/w/deb148ff386c8a32e35e7d65/e/929b7ca8aeee162bb0f129d9) -- Creates tangent planes to any surface with an orientation option of any vertex, plane or face.
+
+[Variable Section Sweep](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3/w/a2de18e932e02a4bd51d3af3/e/0b2c3849b5900737fa810e87) -- Proof of concept that creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves.
 
 ## Manufacturing and 3d Printing Features
 
