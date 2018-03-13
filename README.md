@@ -109,7 +109,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Ports](https://cad.onshape.com/documents/bdb01b008db20251b8a967ad/v/5c3738f65d5a91fcab3776c1/e/e2e1902a5981862d95b41429) -- Creates SAE J1926 straight thread ports.
 
-[Full Round Fillet](https://cad.onshape.com/documents/3d52520839c0fa3587798c0f/v/6aeecc6792399b17f13b4e96/e/557d82915abb44038863f4b4) -- Creates fully rounded fillets.
+[Full Round Fillet](https://cad.onshape.com/documents/3d52520839c0fa3587798c0f/v/6aeecc6792399b17f13b4e96/e/557d82915abb44038863f4b4) C2C Close 2 Circle (http://close2circle.com): Eduardo Magdalena <emagdalena@close2circle.com> -- Creates fully rounded fillets.
 
 ## Primitives
 [Convex Polyhedron](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- Creates a maximum convex solid for any orderless set of 3D vertices.
