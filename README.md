@@ -192,3 +192,6 @@ For body transfoms allows new/add/remoove/intersect options.
 [Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876) -- Flattens a part into a set of flat parts for cutting out
 
 ## Misc
+
+[Sheet Metal Model Xtended](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options.
+<!-- Feature above needs to be removed in next release of Onshape (1.77) as the feature is going to be included in the release. -->
