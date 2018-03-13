@@ -194,3 +194,4 @@ For body transfoms allows new/add/remoove/intersect options.
 ## Misc
 
 [Sheet Metal Model Xtended](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options.
+<!-- Feature above needs to be removed in next release of Onshape (1.77) as the feature is going to be included in the release. -->
