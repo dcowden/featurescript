@@ -200,9 +200,14 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 [Tracer FS](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1)
 -- Traces geometrical parameters of the motion of a flat mechanism defined by sketch, prints them to the console and created a dependency graph on XY work plane.
 
-## Misc
+## Sheet Metal
 
 [Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c) -- A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
 
+[Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f) -- A feature that adds a hem onto a sheet metal part. __This feature may not work__.
+
 [Sheet Metal Model Xtended](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options.
 <!-- Feature above needs to be removed in the next release of Onshape (1.77), as the feature is going to be included in the release. -->
+
+## Misc
+Nothing here yet. :smiley:
