@@ -82,6 +82,8 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Tangent Plane](https://cad.onshape.com/documents/68455a5d522e81cd65a35211) -- Creates tangent planes to any surface with an orientation option of any vertex, plane or face.
 
+[Sweep Normal](https://cad.onshape.com/documents/ba3c5f086342a4d4d9c66071) -- Maintains a sweep profile's normalcy relative to a reference surface instead of the sweep path.
+
 [Variable Section Sweep](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3) -- Proof of concept that creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves.
 
 ## Manufacturing and 3d Printing Features
@@ -180,8 +182,6 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 [Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6fd) -- Creates "configurations" of geometry with predefined references to a set of user-defined variables.
 
 [Point Pattern](https://cad.onshape.com/documents/9fca78cb66a0bc83e359eb3e) -- Patterns parts at sketch vertices.
-
-[Sweep Normal](https://cad.onshape.com/documents/ba3c5f086342a4d4d9c66071) -- Maintains a sweep profile's normalcy relative to a reference surface instead of the sweep path.
 
 [Transform Pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db) -- Transforms faces, bodies or features to the positions defined by vertices or mate connectors. For body transfoms allows new/add/remoove/intersect options.
 
