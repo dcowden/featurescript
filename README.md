@@ -201,7 +201,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 [Tracer FS](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156)
 -- Traces geometrical parameters of the motion of a flat mechanism defined by sketch, prints them to the console and created a dependency graph on XY work plane.
 
-+[Graphic dependency](https://cad.onshape.com/documents/7ae741a97b8c8be22417809c/w/7bdf2cf81072ca8ea50c3e2e/e/5e1adb801764293a53751b3d) -- Defines dependency between a pair of variables by means of sketched law curve.
+[Graphic dependency](https://cad.onshape.com/documents/7ae741a97b8c8be22417809c/w/7bdf2cf81072ca8ea50c3e2e/e/5e1adb801764293a53751b3d) -- Defines dependency between a pair of variables by means of sketched law curve.
 
 ## Sheet Metal
 
