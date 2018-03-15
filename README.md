@@ -125,79 +125,79 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [ANSI Steel Generator](https://cad.onshape.com/documents/b66d1ff63684957c167272d8) -- Creates standard AISC structure steel shapes.
 
-[8020 Profile Generator](https://cad.onshape.com/documents/ccf713ca7463aeb3cbebce26/w/98577b0c5518f6fa1d06d69b/e/05fed5e3fd0d0ef69021b468) -- Creates 8020 Inc profiles.
+[8020 Profile Generator](https://cad.onshape.com/documents/ccf713ca7463aeb3cbebce26) -- Creates 8020 Inc profiles.
 
-[Beams](https://cad.onshape.com/documents/e15c2c668d138f01242d0c80/w/0664d65a957c7bfba7cfbddd/e/bd6831589391741e327fec75) -- Creates structural steel frames.
+[Beams](https://cad.onshape.com/documents/e15c2c668d138f01242d0c80) -- Creates structural steel frames.
 
 ## Fasteners, Threads, and Hardware
 
-[ANSI Washers](https://cad.onshape.com/documents/867babd232327bab6de5d8ec/w/4de5d9deada007ede08fade9/e/bdda2b451818b58aee3b5ffc) -- Creates standard sized ANSI washers.
+[ANSI Washers](https://cad.onshape.com/documents/867babd232327bab6de5d8ec) -- Creates standard sized ANSI washers.
 
-[Fix PCB](https://cad.onshape.com/documents/9a9b81d17d4b69e58ad9b0b0/v/c253688ad8add5efd222a709/e/3152191074466a8b45231663) -- Automate the geometric simplification of imported electrical components attached to a single PCB.
+[Fix PCB](https://cad.onshape.com/documents/9a9b81d17d4b69e58ad9b0b0) -- Automate the geometric simplification of imported electrical components attached to a single PCB.
 
-[O-Ring Generator](https://cad.onshape.com/documents/ae242486af63d55695d994a6/w/bd934a52d0bc030cc75b310f/e/6393ddee213a083563197321) -- Creates O-rings that will fit into existing grooves.
+[O-Ring Generator](https://cad.onshape.com/documents/ae242486af63d55695d994a6) -- Creates O-rings that will fit into existing grooves.
 
-[Socket Head Cap Screw creator](https://cad.onshape.com/documents/2d7e0a6b68c2039da4221ebc/w/06d0026261b3d9bb908f74a1/e/55810c25d213e2450c12060d) -- Creates socket head cap screws, plus the associated taps and counterbores.
+[Socket Head Cap Screw creator](https://cad.onshape.com/documents/2d7e0a6b68c2039da4221ebc) -- Creates socket head cap screws, plus the associated taps and counterbores.
 
-[Thread Creator](https://cad.onshape.com/documents/6b640a407d78066bd5e41c7a/w/4693805578a72f40ebfb4ea3/e/f8aea9e5c33e02eab0854a4f) -- Creates internal and external threads.
+[Thread Creator](https://cad.onshape.com/documents/6b640a407d78066bd5e41c7a) -- Creates internal and external threads.
 
 ##  Gears, Drives, Shafts, and Pulleys
 
-[Belt](https://cad.onshape.com/documents/57886eace4b0e425c1ef548a/w/54f180f432defb41a8fddb17/e/c65e445e89ee373617edc394) -- Creates a belt around any number of pulleys.
+[Belt](https://cad.onshape.com/documents/57886eace4b0e425c1ef548a) -- Creates a belt around any number of pulleys.
 
-[Drive Train Generator](https://cad.onshape.com/documents/6527d86ca7126bbe5b04ca08/w/0cbb5f0cf21f029b0851e42c/e/3ea2b29bac4713685544dc37)  -- Creates gear drive trains based on sketch points selected and a final desired reduction ratio. An optional optimization algorithm can be enabled to make precise reductions.
+[Drive Train Generator](https://cad.onshape.com/documents/6527d86ca7126bbe5b04ca08)  -- Creates gear drive trains based on sketch points selected and a final desired reduction ratio. An optional optimization algorithm can be enabled to make precise reductions.
 
-[Metric Keys](https://cad.onshape.com/documents/06f4d2c9a0d032207955bba4/w/f3f035873933a2da328710b6/e/ac2daf5918dba515b9b0f3f5) -- Creates metric keys for shaft assembly.
+[Metric Keys](https://cad.onshape.com/documents/06f4d2c9a0d032207955bba4) -- Creates metric keys for shaft assembly.
 
-[Planetary Gears](https://cad.onshape.com/documents/b55a80bb510b8ff5cb20fd9a/w/90bb96678686be69d1404ab9/e/e4deff0ebe7c6e37cda1934b) --  Creates an epicyclic, or planetary, gear transmission using true involute gears. 
+[Planetary Gears](https://cad.onshape.com/documents/b55a80bb510b8ff5cb20fd9a) --  Creates an epicyclic, or planetary, gear transmission using true involute gears. 
 
-[Spur Gear](https://cad.onshape.com/documents/5742c8cde4b06c68b362d748/v/16a222adf3cb9a3b33ed9536/e/c72760543a0d4412e72f6d38) -- Creates mathematically correct spur gears with optional center bore hole and keyway.
+[Spur Gear](https://cad.onshape.com/documents/5742c8cde4b06c68b362d748) -- Creates mathematically correct spur gears with optional center bore hole and keyway.
 
-[Straight Spline](https://cad.onshape.com/documents/5848a5f5f680f5104c2bb48d/v/f47bc4ccf348ebfe5a0d118d/e/0ba35c2d77e42c59c2e35b00) -- Creates an SAE Standard Straight Spline on the end of shafts.
+[Straight Spline](https://cad.onshape.com/documents/5848a5f5f680f5104c2bb48d) -- Creates an SAE Standard Straight Spline on the end of shafts.
 
-[Syncro Rotator](https://cad.onshape.com/documents/a0adddcc041efb15f8c3ad2a/w/4e997c4fe738a2030fa71786/e/8a74e08a2998e0d0e6ea7e87) -- Creates gear profiles automatically from another object.
+[Syncro Rotator](https://cad.onshape.com/documents/a0adddcc041efb15f8c3ad2a) -- Creates gear profiles automatically from another object.
 
-[Wave Spring](https://cad.onshape.com/documents/5720a838e4b0c6d25c8c1ff1/v/318b4a29b30263a0b42bf845/e/e72d25ce475e2cc4a10a25e6) -- Creates a wave spring at the origin with mate connectors at either end for easy transform or assembly.
+[Wave Spring](https://cad.onshape.com/documents/5720a838e4b0c6d25c8c1ff1) -- Creates a wave spring at the origin with mate connectors at either end for easy transform or assembly.
 
-[Wiring](https://cad.onshape.com/documents/6dff8f67e2ef0b33193a10d2/w/ad1dd98bb99d14ca27c2eb74/e/0904f1281fabe33fcdd58945) -- Creates wire bundles that go through sketch points in 3D space.
+[Wiring](https://cad.onshape.com/documents/6dff8f67e2ef0b33193a10d2) -- Creates wire bundles that go through sketch points in 3D space.
 
 ## Text and Decorative
 
-[Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b/w/24132f252a02825eb0606641/e/7af1344ab1e54af102d0f4b9) -- Creates embossed or raised text on flat and curved surfaces.
+[Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b) -- Creates embossed or raised text on flat and curved surfaces.
 
 ## Patterning 
 
-[Circular Pattern](https://cad.onshape.com/documents/57b7740ce4b002b1d76d73b8/w/74ebb8e6fc5c218c0891f528/e/ddd2eb42189ff78a6e53fa34) -- Adds radial direction and seed location options to Onshape’s standard circular pattern.
+[Circular Pattern](https://cad.onshape.com/documents/57b7740ce4b002b1d76d73b8) -- Adds radial direction and seed location options to Onshape’s standard circular pattern.
 
-[Curve Pattern Normal](https://cad.onshape.com/documents/57ef018093832a1090983bfe/w/58bcbe4474554bfb72f7ecbe/e/147da62eb78afe2ead98587f) -- Allows you to orient the seed features/bodies/surfaces to maintain their normal position relative to a reference surface.
+[Curve Pattern Normal](https://cad.onshape.com/documents/57ef018093832a1090983bfe) -- Allows you to orient the seed features/bodies/surfaces to maintain their normal position relative to a reference surface.
 
-[Fill Pattern](https://cad.onshape.com/documents/57361ad4e4b00e5012c3857c/v/77e52ccc47a42371185767df/e/14aa44d127806651b248b9c6) -- Patterns faces within a target face while avoiding the boundary of the face.
+[Fill Pattern](https://cad.onshape.com/documents/57361ad4e4b00e5012c3857c) -- Patterns faces within a target face while avoiding the boundary of the face.
 
 [Linear Pattern](https://cad.onshape.com/documents/71cc9029c61a48f5de3430d3) -- Adds a third direction to Onshape's standard linear pattern.
 
-[Linear Pattern with Seed Location](https://cad.onshape.com/documents/57b77f0de4b0a399ffb138eb/w/65d6f78c04fa81878bb2e0e4/e/a0f2afc7f1c42d09f31ac5db) -- Adds ability to select seed location to linear pattern
+[Linear Pattern with Seed Location](https://cad.onshape.com/documents/57b77f0de4b0a399ffb138eb) -- Adds ability to select seed location to linear pattern
 
-[Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6f/w/25d8c7ecb4fba2c4e6eb34a4/e/bbc5cf0f6b3fc16186444e0d) -- Creates "configurations" of geometry with predefined references to a set of user-defined variables.
+[Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6fd) -- Creates "configurations" of geometry with predefined references to a set of user-defined variables.
 
-[Point Pattern](https://cad.onshape.com/documents/9fca78cb66a0bc83e359eb3e/v/7b8e02af4e9b52af8d3ba60b/e/d7f44d3f530f6db8852edfeb) -- Patterns parts at sketch vertices.
+[Point Pattern](https://cad.onshape.com/documents/9fca78cb66a0bc83e359eb3e) -- Patterns parts at sketch vertices.
 
-[Sweep Normal](https://cad.onshape.com/documents/ba3c5f086342a4d4d9c66071/w/1555421c5cfaef36d93b3e6c/e/4aff2b3579595dea2b17a323) -- Maintains a sweep profile's normalcy relative to a reference surface instead of the sweep path.
+[Sweep Normal](https://cad.onshape.com/documents/ba3c5f086342a4d4d9c66071) -- Maintains a sweep profile's normalcy relative to a reference surface instead of the sweep path.
 
-[Transform Pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db/w/ed2afaf5bd2d12066495dc84/e/a71ff51699ae36f356a38f69) -- Transforms faces, bodies or features to the positions defined by vertices or mate connectors. For body transfoms allows new/add/remoove/intersect options.
+[Transform Pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db) -- Transforms faces, bodies or features to the positions defined by vertices or mate connectors. For body transfoms allows new/add/remoove/intersect options.
 
 ## Analysis
 
-[Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f/w/9828ddc941ddc2896ebeebdb/e/fcecc760e1bc713ee3aae876) -- Flattens a part into a set of flat parts for cutting out.
+[Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f) -- Flattens a part into a set of flat parts for cutting out.
 
 [Calculate Bounds](https://cad.onshape.com/documents/2ce3e64026df1ac7e63b98bd) -- Calculates the bounds of the selected objects.
 
-[Measure Distance](https://cad.onshape.com/documents/572b968ce4b07aad125dbaaf/v/08093fef6c4d4f330f24dd19/e/b40df94c5081948fe8195e81) -- Measures the distance between two things in a Part Studio and assigns the result to a variable.
+[Measure Distance](https://cad.onshape.com/documents/572b968ce4b07aad125dbaaf) -- Measures the distance between two things in a Part Studio and assigns the result to a variable.
 
-[Measure Value](https://cad.onshape.com/documents/77baa8153589a7fc5f289829/w/cffd0f2a7077380d5378a885/e/d3174bf5315e6aafcb889367) -- Measures distance, angle, perimeter, area or volume for selected entities and saves the result to the variable.
+[Measure Value](https://cad.onshape.com/documents/77baa8153589a7fc5f289829) -- Measures distance, angle, perimeter, area or volume for selected entities and saves the result to the variable.
 
-[Ray Tracer](https://cad.onshape.com/documents/258a19506c555f400614c944/w/74e657ae2800105e2874589a/e/71d75b30fc9a22f4a9b82a08) -- Simulates a ray of light reflecting off objects and refracting through them.
+[Ray Tracer](https://cad.onshape.com/documents/258a19506c555f400614c944) -- Simulates a ray of light reflecting off objects and refracting through them.
 
-[Tracer FS](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156/w/82761270dd57ac2be5d84860/e/274c362e3eeb03f14eaa43c1)
+[Tracer FS](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156)
 -- Traces geometrical parameters of the motion of a flat mechanism defined by sketch, prints them to the console and created a dependency graph on XY work plane.
 
 ## Sheet Metal
