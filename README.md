@@ -63,7 +63,6 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 [Ortho Lines](https://cad.onshape.com/documents/5a344daad1ec87e14cdb6dc6) -- Quickly create orthogonal lines in the same plane.
 
 [Offset Faces](https://cad.onshape.com/documents/323312569b42b381b93ee95c) -- Offsets one or more faces.
-<!-- Is this really needed as Onshape has this feature? -->
 
 [Parametric Curve](https://cad.onshape.com/documents/578ff8b3e4b0e65410fcfda3) -- Creates curves described by equations.
 
@@ -201,13 +200,13 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 [Tracer FS](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156)
 -- Traces geometrical parameters of the motion of a flat mechanism defined by sketch, prints them to the console and created a dependency graph on XY work plane.
 
-[Graphic dependency](https://cad.onshape.com/documents/7ae741a97b8c8be22417809c/w/7bdf2cf81072ca8ea50c3e2e/e/5e1adb801764293a53751b3d) -- Defines dependency between a pair of variables by means of sketched law curve.
+[Graphic dependency](https://cad.onshape.com/documents/7ae741a97b8c8be22417809c) -- Defines dependency between a pair of variables by means of sketched law curve.
 
 ## Sheet Metal
 
 [Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c) -- A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
 
-[Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f) -- A feature that adds a hem onto a sheet metal part.
+[Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f) -- A feature that adds a hem onto a sheet metal part. Currently supports rolled, closed and open hems.
 
 [Sheet Metal Model Xtended](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options.
 <!-- Feature above needs to be removed in the next release of Onshape (1.77), as the feature is going to be included in the release. -->
