@@ -198,7 +198,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 [Ray Tracer](https://cad.onshape.com/documents/258a19506c555f400614c944) -- Simulates a ray of light reflecting off objects and refracting through them.
 
 [Tracer FS](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156)
--- Traces geometrical parameters of the motion of a flat mechanism defined by sketch, prints them to the console and created a dependency graph on XY work plane.
+-- Traces geometrical parameters of the motion of a flat mechanism defined by sketch, prints them to the console and creates a dependency graph on XY work plane.
 
 [Graphic dependency](https://cad.onshape.com/documents/7ae741a97b8c8be22417809c) -- Defines dependency between a pair of variables by means of sketched law curve.
 
