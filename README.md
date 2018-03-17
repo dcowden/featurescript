@@ -208,7 +208,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f) -- A feature that adds a hem onto a sheet metal part. Currently supports rolled, closed and open hems.
 
-[Sheet Metal Model Xtended](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options.
+[Sheet Metal Model Xtended](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options. It also adds an option for bend allowance.
 <!-- Feature above needs to be removed in the next release of Onshape (1.77), as the feature is going to be included in the release. -->
 
 ## Misc
