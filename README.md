@@ -183,7 +183,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Point Pattern](https://cad.onshape.com/documents/9fca78cb66a0bc83e359eb3e) -- Patterns parts at sketch vertices.
 
-[Transform Pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db) -- Transforms faces, bodies or features to the positions defined by vertices or mate connectors. For body transfoms allows new/add/remoove/intersect options.
+[Transform Pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db) -- Transforms faces, bodies or features to the positions defined by vertices or mate connectors. For body transfoms allows new/add/remove/intersect options.
 
 ## Analysis
 
