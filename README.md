@@ -1,13 +1,13 @@
 # Awesome FeatureScripts for Onshape
 
-![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fdcowden%2Ffeaturescript&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-115436381-1&z=887657232 "ga tracker")  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![FeatureScripts](https://img.shields.io/badge/FeatureScripts-82-brightgreen.svg)
+![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fdcowden%2Ffeaturescript&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-115436381-1&z=887657232 "ga tracker")  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![FeatureScripts](https://img.shields.io/badge/FeatureScripts-89-brightgreen.svg)
 
 ![Awesome](https://github.com/dcowden/featurescript/raw/master/awesome.png)
 
 FeatureScript is a way to extend [Onshape](http://www.onshape.com) with really cool custom features. Sadly, Onshape does not provide a 'Featurescript Store' that lists all of the really good ones.  The official [Onshape list of FeatureScripts](https://www.onshape.com/featurescript) is not comprehensive or categorized.
 
-### RoadMap
-This list is and will always be community edited. Future plans include adding author, a picture, and a rating/voting system.
+### Road Map
+This list is and will always be community edited. Future plans include adding authors, pictures, and a rating/voting system.
 
 #### Submitting Changes/Additions
 Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend. 
