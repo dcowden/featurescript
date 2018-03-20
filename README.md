@@ -213,5 +213,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 [Sheet Metal Model Xtended](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options and an option for bend allowance.
 <!-- Feature above needs to be removed in the next release of Onshape (1.77), as the feature is going to be included in the release. -->
 
+[Sheet Metal Overcut](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f/w/fe0bd1c034e61bbcdb3e68eb) -- An overcut feature that is compatible with sheet metal.
+
 ## Misc
 Nothing here yet. :smiley:
