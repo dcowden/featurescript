@@ -206,14 +206,14 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c) -- A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
 
-[Sheet Metal Flange Plus](https://cad.onshape.com/documents/b4b180faf4fe467356a58c21) -- A feature that allows you to set the distance of a flange from the inside instead of the outside of the sheet metal part. This acts like the Solidworks flange feature.
+<img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/Sheet%20Metal%20Flange%20Plus.PNG" width="32px">[Sheet Metal Flange Plus](https://cad.onshape.com/documents/b4b180faf4fe467356a58c21) -- A feature that allows you to set the distance of a flange from the inside instead of the outside of the sheet metal part. This acts like the Solidworks flange feature.
 
-[Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f) -- A feature that adds a hem onto a sheet metal part. Currently supports rolled, closed and open hems.
+<img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/Sheet%20Metal%20Hem.PNG" width="32px">[Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f) -- A feature that adds a hem onto a sheet metal part. Currently supports rolled, closed and open hems.
 
-[Sheet Metal Model Plus](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options and an option for bend allowance.
+<img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/Sheet%20Metal%20Model%20Plus.PNG" width="32px">[Sheet Metal Model Plus](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options and an option for bend allowance.
 <!-- Feature above needs to be removed in the next release of Onshape (1.77), as the feature is going to be included in the release. -->
 
-[Sheet Metal Overcut](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f/w/fe0bd1c034e61bbcdb3e68eb) -- An overcut feature that is compatible with sheet metal.
+<img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/Sheet%20Metal%20Overcut.PNG" width="32px">[Sheet Metal Overcut](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f/w/fe0bd1c034e61bbcdb3e68eb) -- An overcut feature that is compatible with sheet metal.
 
 ## Misc
 Nothing here yet. :smiley:
