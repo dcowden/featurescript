@@ -94,7 +94,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Fillet/Chamfer Part](https://cad.onshape.com/documents/af7aca4be9fa68afb7279d46) -- Fillets/Chamfers all edges in a single part except for selections.
 
-[Fillet/Chamfer Xtended](https://cad.onshape.com/documents/5fa8fd94e7c46ccddd1dedae) -- These are features that are like Onshape's fillet and chamfer features, but they can use vertices and bodies as selections as well.
+<img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/images/Fillet%20Xtended.PNG" width="32px">[Fillet/Chamfer Xtended](https://cad.onshape.com/documents/5fa8fd94e7c46ccddd1dedae) -- These are features that are like Onshape's fillet and chamfer features, but they can use vertices and bodies as selections as well.
 
 [Fillet/Chamfer Feature Library](https://cad.onshape.com/documents/b1be5929c83cf76c063a2181) -- An all-in-one feature that includes the above features.
 
