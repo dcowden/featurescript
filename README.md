@@ -187,7 +187,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 ## Analysis
 
-[Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f) -- Flattens a part into a set of flat parts for cutting out.
+[Auto Layout](https://cad.onshape.com/documents/576e01dbe4b0cc2e7f46a55d) -- Nests flat parts into a set of flat sheets for cutting out.
 
 [Calculate Bounds](https://cad.onshape.com/documents/2ce3e64026df1ac7e63b98bd) -- Calculates the bounds of the selected objects.
 
