@@ -113,6 +113,8 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Ports](https://cad.onshape.com/documents/bdb01b008db20251b8a967ad) -- Creates SAE J1926 straight thread ports.
 
+[Round Emboss](https://cad.onshape.com/documents/c906e2264d158509753b1bdb) -- Creates round formed embosses with the specified height, diameter, and draft angle. Both planar and non-planar surfaces are supported.
+
 ## Primitives
 
 [Bricks](https://cad.onshape.com/documents/573b8871e4b0fddafb4e953e) -- Creates building bricks in various styles and sizes.
