@@ -29,9 +29,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Snap Hook](https://cad.onshape.com/documents/5738c1f6e4b06c68b35e66aa) -- Creates a snap hook - a common fastening feature in plastic part design.
 
-[T-slot Bolted Joint](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35) -- Creates a T-slot bolted connection between two planar parts.
-
-[T-slot Joints](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35) -- Creates T-slot joints from overlapping pieces.
+[T-slot Joint](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35) -- Creates a T-slot bolted connection between two planar parts.
 
 ## Surfaces, Curves, and Geometry
 
