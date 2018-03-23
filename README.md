@@ -10,7 +10,7 @@ FeatureScript is a way to extend [Onshape](http://www.onshape.com) with really c
 This list is and will always be community edited. Future plans include adding authors, pictures, and a rating/voting system.
 
 #### Submitting Changes/Additions
-Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend. 
+Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend.
 
 
 ## Joinery
@@ -18,6 +18,8 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 [Break off Tabs](https://cad.onshape.com/documents/eea009fcf35a0cd683265767) -- Creates sheet metal tabs that easily break off.
 
 [Box/Dovetail Joint](https://cad.onshape.com/documents/57612867e4b018f59e4d52ce) -- Creates a finger joint or dovetail joint between two parts.
+
+[Dogbone and CornerCut](https://cad.onshape.com/documents/51695bc13e3d9fb286023c70/w/f1e387898ad3a323b9fd9a6b/e/3a9512753b299d5fefc39f46) -- Creates dogbones and overcuts for corners
 
 [Kerf Compensation](https://cad.onshape.com/documents/57df36a88f63301089e8ac78) -- Offsets all cut faces of a planar part to compensate for cutting kerf.
 
@@ -149,7 +151,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Metric Keys](https://cad.onshape.com/documents/06f4d2c9a0d032207955bba4) -- Creates metric keys for shaft assembly.
 
-[Planetary Gears](https://cad.onshape.com/documents/b55a80bb510b8ff5cb20fd9a) --  Creates an epicyclic, or planetary, gear transmission using true involute gears. 
+[Planetary Gears](https://cad.onshape.com/documents/b55a80bb510b8ff5cb20fd9a) --  Creates an epicyclic, or planetary, gear transmission using true involute gears.
 
 [Spur Gear](https://cad.onshape.com/documents/5742c8cde4b06c68b362d748) -- Creates mathematically correct spur gears with optional center bore hole and keyway.
 
@@ -165,7 +167,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b) -- Creates embossed or raised text on flat and curved surfaces.
 
-## Patterning 
+## Patterning
 
 [Circular Pattern](https://cad.onshape.com/documents/57b7740ce4b002b1d76d73b8) -- Adds radial direction and seed location options to Onshape’s standard circular pattern.
 
