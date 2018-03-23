@@ -206,6 +206,8 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c) -- A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
 
+[Sheet Metal Dogbone](https://cad.onshape.com/documents/63f36b78ac1ea86a34b7c603) -- A dogbone feature that is compatible with sheet metal.
+
 [Sheet Metal Flange Plus](https://cad.onshape.com/documents/b4b180faf4fe467356a58c21) -- A feature that allows you to set the distance of a flange from the inside instead of the outside of the sheet metal part. This acts like the Solidworks flange feature.
 
 [Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f) -- A feature that adds a hem onto a sheet metal part. Currently supports rolled, closed and open hems.
