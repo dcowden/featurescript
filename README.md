@@ -210,13 +210,13 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Sheet Metal Dogbone](https://cad.onshape.com/documents/63f36b78ac1ea86a34b7c603) -- A dogbone feature that is compatible with sheet metal.
 
-[Sheet Metal Flange Plus](https://cad.onshape.com/documents/b4b180faf4fe467356a58c21) -- A feature that allows you to set the distance of a flange from the inside instead of the outside of the sheet metal part. This acts like the Solidworks flange feature.
+<img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/images/Sheet%20Metal%20Flange%20Plus.PNG" width="32px">[Sheet Metal Flange Plus](https://cad.onshape.com/documents/b4b180faf4fe467356a58c21) -- A feature that allows you to set the distance of a flange from the inside instead of the outside of the sheet metal part. This acts like the Solidworks flange feature.
 
-[Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f) -- A feature that adds a hem onto a sheet metal part. Currently supports rolled, closed and open hems.
+<img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/images/Sheet%20Metal%20Hem.PNG" width="32px">[Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f) -- A feature that adds a hem onto a sheet metal part. Currently supports rolled, closed and open hems.
 
-[Sheet Metal Model Plus](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds an option for bend allowance.
+<img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/images/Sheet%20Metal%20Model%20Plus.PNG" width="32px">[Sheet Metal Model Plus](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds an option for bend allowance.
 
-[Sheet Metal Overcut](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f/w/fe0bd1c034e61bbcdb3e68eb) -- An overcut feature that is compatible with sheet metal.
+<img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/images/Sheet%20Metal%20Overcut.PNG" width="32px">[Sheet Metal Overcut](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f/w/fe0bd1c034e61bbcdb3e68eb) -- An overcut feature that is compatible with sheet metal.
 
 ## Misc
 Nothing here yet. :smiley:
