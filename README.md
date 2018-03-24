@@ -1,6 +1,6 @@
 # Awesome FeatureScripts for Onshape
 
-![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fdcowden%2Ffeaturescript&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-115436381-1&z=887657232 "ga tracker")  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![FeatureScripts](https://img.shields.io/badge/FeatureScripts-89-brightgreen.svg)
+![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fdcowden%2Ffeaturescript&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-115436381-1&z=887657232 "ga tracker")  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![FeatureScripts](https://img.shields.io/badge/FeatureScripts-90-brightgreen.svg)
 
 ![Awesome](https://github.com/dcowden/featurescript/raw/master/awesome.png)
 
@@ -10,7 +10,7 @@ FeatureScript is a way to extend [Onshape](http://www.onshape.com) with really c
 This list is and will always be community edited. Future plans include adding authors, pictures, and a rating/voting system.
 
 #### Submitting Changes/Additions
-Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend. 
+Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend.
 
 
 ## Joinery
@@ -18,6 +18,8 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 [Break off Tabs](https://cad.onshape.com/documents/eea009fcf35a0cd683265767) -- Creates sheet metal tabs that easily break off.
 
 [Box/Dovetail Joint](https://cad.onshape.com/documents/57612867e4b018f59e4d52ce) -- Creates a finger joint or dovetail joint between two parts.
+
+[Dogbone and CornerCut](https://cad.onshape.com/documents/51695bc13e3d9fb286023c70/w/f1e387898ad3a323b9fd9a6b/e/3a9512753b299d5fefc39f46) -- Creates dogbones and overcuts for corners
 
 [Kerf Compensation](https://cad.onshape.com/documents/57df36a88f63301089e8ac78) -- Offsets all cut faces of a planar part to compensate for cutting kerf.
 
@@ -29,9 +31,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Snap Hook](https://cad.onshape.com/documents/5738c1f6e4b06c68b35e66aa) -- Creates a snap hook - a common fastening feature in plastic part design.
 
-[T-slot Bolted Joint](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35) -- Creates a T-slot bolted connection between two planar parts.
-
-[T-slot Joints](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35) -- Creates T-slot joints from overlapping pieces.
+[T-slot Joint](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35) -- Creates a T-slot bolted connection between two planar parts.
 
 ## Surfaces, Curves, and Geometry
 
@@ -113,6 +113,8 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Ports](https://cad.onshape.com/documents/bdb01b008db20251b8a967ad) -- Creates SAE J1926 straight thread ports.
 
+[Round Emboss](https://cad.onshape.com/documents/c906e2264d158509753b1bdb) -- Creates round formed embosses with the specified height, diameter, and draft angle. Both planar and non-planar surfaces are supported.
+
 ## Primitives
 
 [Bricks](https://cad.onshape.com/documents/573b8871e4b0fddafb4e953e) -- Creates building bricks in various styles and sizes.
@@ -151,7 +153,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Metric Keys](https://cad.onshape.com/documents/06f4d2c9a0d032207955bba4) -- Creates metric keys for shaft assembly.
 
-[Planetary Gears](https://cad.onshape.com/documents/b55a80bb510b8ff5cb20fd9a) --  Creates an epicyclic, or planetary, gear transmission using true involute gears. 
+[Planetary Gears](https://cad.onshape.com/documents/b55a80bb510b8ff5cb20fd9a) --  Creates an epicyclic, or planetary, gear transmission using true involute gears.
 
 [Spur Gear](https://cad.onshape.com/documents/5742c8cde4b06c68b362d748) -- Creates mathematically correct spur gears with optional center bore hole and keyway.
 
@@ -167,7 +169,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b) -- Creates embossed or raised text on flat and curved surfaces.
 
-## Patterning 
+## Patterning
 
 [Circular Pattern](https://cad.onshape.com/documents/57b7740ce4b002b1d76d73b8) -- Adds radial direction and seed location options to Onshape’s standard circular pattern.
 
@@ -187,7 +189,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 ## Analysis
 
-[Auto Layout](https://cad.onshape.com/documents/3b3bb87c95d03259328fdb1f) -- Flattens a part into a set of flat parts for cutting out.
+[Auto Layout](https://cad.onshape.com/documents/576e01dbe4b0cc2e7f46a55d) -- Nests flat parts into a set of flat sheets for cutting out.
 
 [Calculate Bounds](https://cad.onshape.com/documents/2ce3e64026df1ac7e63b98bd) -- Calculates the bounds of the selected objects.
 
@@ -206,12 +208,13 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c) -- A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
 
+[Sheet Metal Dogbone](https://cad.onshape.com/documents/63f36b78ac1ea86a34b7c603) -- A dogbone feature that is compatible with sheet metal.
+
 <img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/images/Sheet%20Metal%20Flange%20Plus.PNG" width="32px">[Sheet Metal Flange Plus](https://cad.onshape.com/documents/b4b180faf4fe467356a58c21) -- A feature that allows you to set the distance of a flange from the inside instead of the outside of the sheet metal part. This acts like the Solidworks flange feature.
 
 <img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/images/Sheet%20Metal%20Hem.PNG" width="32px">[Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f) -- A feature that adds a hem onto a sheet metal part. Currently supports rolled, closed and open hems.
 
-<img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/images/Sheet%20Metal%20Model%20Plus.PNG" width="32px">[Sheet Metal Model Plus](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds different end type options and an option for bend allowance.
-<!-- Feature above needs to be removed in the next release of Onshape (1.77), as the feature is going to be included in the release. -->
+<img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/images/Sheet%20Metal%20Model%20Plus.PNG" width="32px">[Sheet Metal Model Plus](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds an option for bend allowance.
 
 <img src="https://github.com/dcowden/featurescript/raw/morganb21-edit-icons/images/Sheet%20Metal%20Overcut.PNG" width="32px">[Sheet Metal Overcut](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f/w/fe0bd1c034e61bbcdb3e68eb) -- An overcut feature that is compatible with sheet metal.
 
