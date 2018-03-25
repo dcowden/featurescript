@@ -4,7 +4,7 @@
 
 ![Awesome](https://github.com/dcowden/featurescript/raw/master/awesome.png)
 
-FeatureScript is a way to extend [Onshape](http://www.onshape.com) with really cool custom features. Sadly, Onshape does not provide a 'Featurescript Store' that lists all of the really good ones.  The official [Onshape list of FeatureScripts](https://www.onshape.com/featurescript) is not comprehensive or categorized.
+FeatureScript is a way to extend [Onshape](http://www.onshape.com) with really cool custom features. Sadly, Onshape does not provide a 'Featurescript Store' that lists all of the really good ones. Its official [list of FeatureScripts](https://www.onshape.com/featurescript) is not comprehensive or categorized. Onshape, however, does have another [FeatureScript](https://cad.onshape.com/FsDoc/) page with [tutorials](https://cad.onshape.com/FsDoc/tutorials/create-a-slot-feature.html) and [documentation](https://cad.onshape.com/FsDoc/library.html).
 
 ### Road Map
 This list is and will always be community edited. Future plans include adding authors, pictures, and a rating/voting system.
@@ -19,7 +19,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Box/Dovetail Joint](https://cad.onshape.com/documents/57612867e4b018f59e4d52ce) -- Creates a finger joint or dovetail joint between two parts.
 
-[Dogbone and CornerCut](https://cad.onshape.com/documents/51695bc13e3d9fb286023c70/w/f1e387898ad3a323b9fd9a6b/e/3a9512753b299d5fefc39f46) -- Creates dogbones and overcuts for corners
+[Dogbone and Overcut](https://cad.onshape.com/documents/51695bc13e3d9fb286023c70) -- Creates dogbones and overcuts for corners.
 
 [Kerf Compensation](https://cad.onshape.com/documents/57df36a88f63301089e8ac78) -- Offsets all cut faces of a planar part to compensate for cutting kerf.
 
@@ -216,7 +216,10 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Sheet Metal Model Plus](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds an option for bend allowance.
 
-[Sheet Metal Overcut](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f/w/fe0bd1c034e61bbcdb3e68eb) -- An overcut feature that is compatible with sheet metal.
+[Sheet Metal Overcut](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f) -- An overcut feature that is compatible with sheet metal.
 
 ## Misc
+
+[Onshape Standard Library Source (std)](https://cad.onshape.com/documents/12312312345abcabcabcdeff) -- The Onshape Standard Library Source Code.
+
 Nothing here yet. :smiley:
