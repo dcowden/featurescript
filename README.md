@@ -4,7 +4,7 @@
 
 ![Awesome](https://github.com/dcowden/featurescript/raw/master/awesome.png)
 
-FeatureScript is a way to extend [Onshape](http://www.onshape.com) with really cool custom features. Sadly, Onshape does not provide a 'Featurescript Store' that lists all of the really good ones. Its official [list of FeatureScripts](https://www.onshape.com/featurescript) is not comprehensive or categorized. Onshape, however, does have another [FeatureScript](https://cad.onshape.com/FsDoc/) page with [tutorials](https://cad.onshape.com/FsDoc/tutorials/create-a-slot-feature.html) and [documentation](https://cad.onshape.com/FsDoc/library.html).
+FeatureScript is a way to extend [Onshape](http://www.onshape.com) with really cool custom features. Sadly, Onshape does not provide a 'Featurescript Store' that lists all of the really good ones. Its official [list of FeatureScripts](https://www.onshape.com/featurescript) is not comprehensive or categorized. Onshape, however, does have another [FeatureScript](https://cad.onshape.com/FsDoc/) page with [tutorials](https://cad.onshape.com/FsDoc/tutorials/create-a-slot-feature.html) and [documentation](https://cad.onshape.com/FsDoc/library.html). You can also view the [Onshape Standard Library Source](https://cad.onshape.com/documents/12312312345abcabcabcdeff).
 
 ### Road Map
 This list is and will always be community edited. Future plans include adding authors, pictures, and a rating/voting system.
@@ -221,5 +221,3 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 ## Misc
 
 [Onshape Standard Library Source (std)](https://cad.onshape.com/documents/12312312345abcabcabcdeff) -- The Onshape Standard Library Source Code.
-
-Nothing here yet. :smiley:
