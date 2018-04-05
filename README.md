@@ -44,42 +44,59 @@ Creates a T-slot bolted connection between two planar parts.
 
 ## Surfaces, Curves, and Geometry
 
-[3D Points](https://cad.onshape.com/documents/502108ab33bd9af500b73c1a) -- Import 3d points from text input.
+#### [3D Points](https://cad.onshape.com/documents/502108ab33bd9af500b73c1a)
+Import 3d points from text input.
 
-[3D Spline](https://cad.onshape.com/documents/573f7b36e4b02e83c71782fc) -- Creates an optionally closed spline through a sequence of vertices.
+#### [3D Spline](https://cad.onshape.com/documents/573f7b36e4b02e83c71782fc)
+Creates an optionally closed spline through a sequence of vertices.
 
-[3D Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2)
+#### [3D Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2)
 -- Creates a circular spiral along some spatial curve.
 
-[Contour Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2) -- Creates a spiral along the curve with user-defined cross section profile.
+#### [Contour Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2)
+Creates a spiral along the curve with user-defined cross section profile.
 
-[Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156) --  Generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point.
+#### [Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156)
+Generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point.
 
-[Enhanced Planes](https://cad.onshape.com/documents/0de04acb5bac92ca16796edf) -- Create planes tangent to surfaces and other ways.
+#### [Enhanced Planes](https://cad.onshape.com/documents/0de04acb5bac92ca16796edf)
+Create planes tangent to surfaces and other ways.
 
-[Extend Surface](https://cad.onshape.com/documents/b1b694bd5db0f702f9dc4b3b) -- Extends existing surface bodies.
+#### [Extend Surface](https://cad.onshape.com/documents/b1b694bd5db0f702f9dc4b3b)
+Extends existing surface bodies.
 
-#### [Fit Spline](https://cad.onshape.com/documents/4921880a2a6769256992599d) -- Takes one or more splines and fits one spline through them.
+#### [Fit Spline](https://cad.onshape.com/documents/4921880a2a6769256992599d)
+Takes one or more splines and fits one spline through them.
 
-#### [Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99) -- Takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline.
+#### [Flex FS](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99)
+Takes sketch edges or regions and transforms them like if target curve would become a X axis of the sketch. It bends the sketch along some curve, to make cams or spread text over a spline.
 
-#### [Multi-Plane](https://cad.onshape.com/documents/575857fae4b06a2590ec9d29) -- Creates multiple, evenly spaced planes from a single reference plane or open/closed 2D or 3D edge.
+#### [Multi-Plane](https://cad.onshape.com/documents/575857fae4b06a2590ec9d29)
+Creates multiple, evenly spaced planes from a single reference plane or open/closed 2D or 3D edge.
 
-#### [Multi-Plane 2](https://cad.onshape.com/documents/578d3ba3e4b0fe44cbff7c02) -- This is the same as the Mult-Plane custom feature, but with a rotated plane array option.
+#### [Multi-Plane 2](https://cad.onshape.com/documents/578d3ba3e4b0fe44cbff7c02)
+This is the same as the Mult-Plane custom feature, but with a rotated plane array option.
 
-#### [NACA Airfoil](https://cad.onshape.com/documents/972dc31f395640d97dd6edca) -- Create an NACA airfoil by reading a CSV file.
+#### [NACA Airfoil](https://cad.onshape.com/documents/972dc31f395640d97dd6edca)
+Create an NACA airfoil by reading a CSV file.
 
-#### [Ortho Lines](https://cad.onshape.com/documents/5a344daad1ec87e14cdb6dc6) -- Quickly create orthogonal lines in the same plane.
+#### [Ortho Lines](https://cad.onshape.com/documents/5a344daad1ec87e14cdb6dc6)
+Quickly create orthogonal lines in the same plane.
 
-#### [Offset Faces](https://cad.onshape.com/documents/323312569b42b381b93ee95c) -- Offsets one or more faces.
+#### [Offset Faces](https://cad.onshape.com/documents/323312569b42b381b93ee95c)
+Offsets one or more faces.
 
-#### [Parametric Curve](https://cad.onshape.com/documents/578ff8b3e4b0e65410fcfda3) -- Creates curves described by equations.
+#### [Parametric Curve](https://cad.onshape.com/documents/578ff8b3e4b0e65410fcfda3)
+Creates curves described by equations.
 
-#### [Parametric Surface](https://cad.onshape.com/documents/57a62df8e4b03de4c9fcf154) -- Creates a surface driven by an equation of the form z = f(x,y).
+#### [Parametric Surface](https://cad.onshape.com/documents/57a62df8e4b03de4c9fcf154)
+Creates a surface driven by an equation of the form z = f(x,y).
 
-#### [Radiate Surface](https://cad.onshape.com/documents/0afe59275b703fb163481cb2) -- Creates a surface that originates from a selection of edges, and is always parallel to a selected plane.
+#### [Radiate Surface](https://cad.onshape.com/documents/0afe59275b703fb163481cb2)
+Creates a surface that originates from a selection of edges, and is always parallel to a selected plane.
 
-#### [RectToPolar](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99) -- Creates flat cam profiles based on the 2d sketch with law of motion and sketch coordinate system (defined by mc).
+#### [RectToPolar](https://cad.onshape.com/documents/0bb13c1b6ed6d4a6dd75cf99)
+Creates flat cam profiles based on the 2d sketch with law of motion and sketch coordinate system (defined by mc).
 
 #### [Revolved Curve](https://cad.onshape.com/documents/57888f0ae4b0e65410f9ee45)
 Adds a revolved 3D curve with one of several shape profiles and configurable size, location, and pitch.
