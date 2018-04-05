@@ -208,7 +208,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c) -- A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
 
-[Sheet Metal Dogbone](https://cad.onshape.com/documents/63f36b78ac1ea86a34b7c603) -- A dogbone feature that is compatible with sheet metal.
+~~[Sheet Metal Dogbone](https://cad.onshape.com/documents/63f36b78ac1ea86a34b7c603) -- A dogbone feature that is compatible with sheet metal.~~ Deprecated: Use [Sheet Metal Overcut / Dogbone](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f) instead
 
 [Sheet Metal Flange Plus](https://cad.onshape.com/documents/b4b180faf4fe467356a58c21) -- A feature that allows you to set the distance of a flange from the inside instead of the outside of the sheet metal part. This acts like the Solidworks flange feature.
 
@@ -216,7 +216,7 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Sheet Metal Model Plus](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3) -- An extended version of the "Sheet Metal Model" feature that adds an option for bend allowance.
 
-[Sheet Metal Overcut](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f) -- An overcut feature that is compatible with sheet metal.
+[Sheet Metal Overcut / Dogbone](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f) -- A feature that creates overcuts and dogbones that are compatible with sheet metal. When creating dogbones, you can use a manipulator to change the direction of separate dogbones.
 
 ## Misc
 
