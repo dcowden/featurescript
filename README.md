@@ -65,6 +65,9 @@ Create planes tangent to surfaces and other ways.
 #### [Extend Surface](https://cad.onshape.com/documents/b1b694bd5db0f702f9dc4b3b)
 Extends existing surface bodies.
 
+#### [Extrude Vertex](https://cad.onshape.com/documents/c5243aa82f2e404377db3017/w/2e1cd14f8ef6ad44b7c02b44)
+Extrudes vertices in a specified direction to create a curve. It has second direction as well.
+
 #### [Fit Spline](https://cad.onshape.com/documents/4921880a2a6769256992599d)
 Takes one or more splines and fits one spline through them.
 
