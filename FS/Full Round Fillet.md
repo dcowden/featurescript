@@ -4,3 +4,14 @@
 | Company: C2C Close 2 Circle  | Website: http://close2circle.com/  |
 | <td colspan=2>Description: Creates fully rounded fillets.</td>|
 | Screenshot:  | Creates fully rounded fillets.  |
+
+
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
