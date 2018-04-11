@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td>Name: [Full Round Fillet](https://cad.onshape.com/documents/3d52520839c0fa3587798c0f)</td>
+    <td>Name: <a href="https://cad.onshape.com/documents/3d52520839c0fa3587798c0f">Full Round Fillet</a></td>
     <td>Version: 3.0</td>
   </tr>
     <tr>
