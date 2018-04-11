@@ -8,11 +8,11 @@
 
 <table>
   <tr>
-    <td>Name: <a href="https://cad.onshape.com/documents/3d52520839c0fa3587798c0f">Full Round Fillet</a></td>
+    <td><strong>Name: <a href="https://cad.onshape.com/documents/3d52520839c0fa3587798c0f">Full Round Fillet</a></strong></td>
     <td>Version: 3.0</td>
   </tr>
     <tr>
-    <td>Author: [Eduardo Magdalena](https://forum.onshape.com/profile/emagdalenaC2C)</td>
+    <td>Author: <a href="https://forum.onshape.com/profile/emagdalenaC2C">Eduardo Magdalena</a></td>
     <td>Email: emagdalena@close2circle.com</td>
   </tr>
       <tr>
