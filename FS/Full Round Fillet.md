@@ -8,10 +8,18 @@
 
 <table>
   <tr>
-    <td>One</td>
-    <td>Two</td>
+    <td>Name: [Full Round Fillet](https://cad.onshape.com/documents/3d52520839c0fa3587798c0f)</td>
+    <td>Version: 3.0</td>
+  </tr>
+    <tr>
+    <td>Author: [Eduardo Magdalena](https://forum.onshape.com/profile/emagdalenaC2C)</td>
+    <td>Email: emagdalena@close2circle.com</td>
+  </tr>
+      <tr>
+    <td>Company: C2C Close 2 Circle</td>
+    <td>Website: http://close2circle.com/</td>
   </tr>
   <tr>
-    <td colspan="2">Three</td>
+    <td colspan="2">Description: Creates fully rounded fillets.</td>
   </tr>
 </table>
