@@ -22,4 +22,7 @@
   <tr>
     <td colspan="2"><strong>Description:</strong> Creates fully rounded fillets.</td>
   </tr>
+    <tr>
+    <td colspan="2">[Full Round Fillet](FS/Full%20Round%20Fillet.PNG)</td>
+  </tr>
 </table>
