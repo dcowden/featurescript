@@ -9,17 +9,17 @@
 <table>
   <tr>
     <td><strong>Name: <a href="https://cad.onshape.com/documents/3d52520839c0fa3587798c0f">Full Round Fillet</a></strong></td>
-    <td>Version: 3.0</td>
+    <td><strong>Version:</strong> 3.0</td>
   </tr>
     <tr>
-    <td>Author: <a href="https://forum.onshape.com/profile/emagdalenaC2C">Eduardo Magdalena</a></td>
-    <td>Email: emagdalena@close2circle.com</td>
+    <td><strong>Author:</strong> <a href="https://forum.onshape.com/profile/emagdalenaC2C">Eduardo Magdalena</a></td>
+    <td><strong>Email:</strong> emagdalena@close2circle.com</td>
   </tr>
       <tr>
-    <td>Company: C2C Close 2 Circle</td>
-    <td>Website: http://close2circle.com/</td>
+    <td><strong>Company:</strong> C2C Close 2 Circle</td>
+    <td><strong>Website:</strong> http://close2circle.com/</td>
   </tr>
   <tr>
-    <td colspan="2">Description: Creates fully rounded fillets.</td>
+    <td colspan="2"><strong>Description:</strong> Creates fully rounded fillets.</td>
   </tr>
 </table>
