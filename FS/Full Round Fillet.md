@@ -2,5 +2,5 @@
 | ------------- | ------------- |
 | Author: [Eduardo Magdalena](https://forum.onshape.com/profile/emagdalenaC2C)  | Email: emagdalena@close2circle.com  |
 | Company: C2C Close 2 Circle  | Website: http://close2circle.com/  |
-| Description:  | Creates fully rounded fillets.  |
+| Description: Creates fully rounded fillets.  |
 | Screenshot:  | Creates fully rounded fillets.  |
