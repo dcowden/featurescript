@@ -1,4 +1,4 @@
-<table width="90%">
+<table width="600">
   <tr>
     <td><strong>Name: <a href="https://cad.onshape.com/documents/3d52520839c0fa3587798c0f">Full Round Fillet</a></strong></td>
     <td><strong>Version:</strong> 3.0</td>
@@ -13,6 +13,9 @@
   </tr>
   <tr>
     <td colspan="2"><strong>Description:</strong> Creates fully rounded fillets.</td>
+  </tr>
+    <tr>
+    <td colspan="2"><img src="Full Round Fillet.PNG" width="90%"></img></td>
   </tr>
 </table>
 <img src="Full Round Fillet.PNG" width="90%"></img>
