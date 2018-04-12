@@ -164,6 +164,9 @@ Creates SAE J1926 straight thread ports.
 #### [Round Emboss](https://cad.onshape.com/documents/c906e2264d158509753b1bdb)
 Creates round formed embosses with the specified height, diameter, and draft angle. Both planar and non-planar surfaces are supported.
 
+#### [Setback Fillet](https://cad.onshape.com/documents/833dffabd805010ce935bee2/w/d15b586cc7aa564eee76cc28/e/45bbda3a08e8edd18c192163)
+Converts standard 3-surface spherical corner fillets into setback fillets
+
 ## Primitives
 
 #### [Bricks](https://cad.onshape.com/documents/573b8871e4b0fddafb4e953e)
