@@ -51,7 +51,7 @@ Import 3d points from text input.
 Creates an optionally closed spline through a sequence of vertices.
 
 #### [3D Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2)
--- Creates a circular spiral along some spatial curve.
+Creates a circular spiral along some spatial curve.
 
 #### [Contour Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2)
 Creates a spiral along the curve with user-defined cross section profile.
@@ -269,6 +269,27 @@ Patterns parts at sketch vertices.
 #### [Transform Pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db)
 Transforms faces, bodies or features to the positions defined by vertices or mate connectors. For body transfoms allows new/add/remove/intersect options.
 
+## Sheet Metal
+
+#### [Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c)
+A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
+
+#### ~~[Sheet Metal Dogbone](https://cad.onshape.com/documents/63f36b78ac1ea86a34b7c603)~~
+~~A dogbone feature that is compatible with sheet metal.~~
+Deprecated by author's request: Use [Sheet Metal Overcut / Dogbone](#sheet-metal-overcut--dogbone) instead
+
+#### [Sheet Metal Flange Plus](https://cad.onshape.com/documents/b4b180faf4fe467356a58c21)
+A feature that allows you to set the distance of a flange from the inside instead of the outside of the sheet metal part. This acts like the Solidworks flange feature.
+
+#### [Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f)
+A feature that adds a hem onto a sheet metal part. Currently supports rolled, closed and open hems.
+
+#### [Sheet Metal Model Plus](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3)
+An extended version of the "Sheet Metal Model" feature that adds an option for bend allowance.
+
+#### [Sheet Metal Overcut / Dogbone](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f)
+A feature that creates overcuts and dogbones that are compatible with sheet metal. When creating dogbones, you can use a manipulator to change the direction of separate dogbones.
+
 ## Analysis
 
 #### [Auto Layout](https://cad.onshape.com/documents/576e01dbe4b0cc2e7f46a55d)
@@ -292,28 +313,11 @@ Traces geometrical parameters of the motion of a flat mechanism defined by sketc
 #### [Graphic dependency](https://cad.onshape.com/documents/7ae741a97b8c8be22417809c)
 Defines dependency between a pair of variables by means of sketched law curve.
 
-## Sheet Metal
-
-#### [Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c)
-A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
-
-##### ~~[Sheet Metal Dogbone](https://cad.onshape.com/documents/63f36b78ac1ea86a34b7c603)~~
-~~A dogbone feature that is compatible with sheet metal.~~
-Deprecated by author's request: Use [Sheet Metal Overcut / Dogbone](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f) instead
-
-#### [Sheet Metal Flange Plus](https://cad.onshape.com/documents/b4b180faf4fe467356a58c21)
-A feature that allows you to set the distance of a flange from the inside instead of the outside of the sheet metal part. This acts like the Solidworks flange feature.
-
-#### [Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f)
-A feature that adds a hem onto a sheet metal part. Currently supports rolled, closed and open hems.
-
-#### [Sheet Metal Model Plus](https://cad.onshape.com/documents/a39db7615a2a945ffb7076c3)
-An extended version of the "Sheet Metal Model" feature that adds an option for bend allowance.
-
-#### [Sheet Metal Overcut / Dogbone](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f)
-A feature that creates overcuts and dogbones that are compatible with sheet metal. When creating dogbones, you can use a manipulator to change the direction of separate dogbones.
-
 ## Misc
 
 #### [Onshape Standard Library Source (std)](https://cad.onshape.com/documents/12312312345abcabcabcdeff)
 The Onshape Standard Library Source Code.
+
+#### [Timeline Creator](https://cad.onshape.com/documents/ffb089792f76592c6b1b7594)
+Creates timelines of user-defined events
+
