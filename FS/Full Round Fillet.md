@@ -15,6 +15,6 @@
     <td colspan="2"><strong>Description:</strong> Creates fully rounded fillets.</td>
   </tr>
     <tr>
-    <td colspan="2"><img src="Full Round Fillet.PNG" width="90%"></img></td>
+    <td colspan="2"><img src="Full Round Fillet.PNG" width="600"></img></td>
   </tr>
 </table>
