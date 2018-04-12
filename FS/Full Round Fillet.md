@@ -1,11 +1,3 @@
-| Name: [Full Round Fillet](https://cad.onshape.com/documents/3d52520839c0fa3587798c0f)  | Version: 3.0  |
-| ------------- | ------------- |
-| Author: [Eduardo Magdalena](https://forum.onshape.com/profile/emagdalenaC2C)  | Email: emagdalena@close2circle.com  |
-| Company: C2C Close 2 Circle  | Website: http://close2circle.com/  |
-| <td colspan=2>Description: Creates fully rounded fillets.</td>|
-| Screenshot:  | Creates fully rounded fillets.  |
-
-
 <table>
   <tr>
     <td><strong>Name: <a href="https://cad.onshape.com/documents/3d52520839c0fa3587798c0f">Full Round Fillet</a></strong></td>
@@ -22,7 +14,5 @@
   <tr>
     <td colspan="2"><strong>Description:</strong> Creates fully rounded fillets.</td>
   </tr>
-    <tr>
-    <td colspan="2">[Full Round Fillet](Full%20Round%20Fillet.PNG)</td>
-  </tr>
 </table>
+[Full Round Fillet](featurescript/FS/Full Round Fillet.PNG)
