@@ -1,5 +1,3 @@
-<html>
-<body>
   <table width=100%>
   <tr>
     <td><strong>Name: <a href="https://cad.onshape.com/documents/3d52520839c0fa3587798c0f">Full Round Fillet</a></strong></td>
@@ -20,5 +18,3 @@
     <td colspan="2"><img src="Full Round Fillet.PNG" width="90%"></img></td>
   </tr>
 </table>
-</body>
-</html>
