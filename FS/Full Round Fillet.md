@@ -15,4 +15,4 @@
     <td colspan="2"><strong>Description:</strong> Creates fully rounded fillets.</td>
   </tr>
 </table>
-[Full Round Fillet](featurescript/FS/Full Round Fillet.PNG)
+[Full Round Fillet](Full Round Fillet.PNG)
