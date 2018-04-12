@@ -111,7 +111,6 @@ Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featuresc
 
 [Full Round Fillet](FS/Full%20Round%20Fillet.md)
 Creates fully rounded fillets.
-![Full Round Fillet](FS/Full Round Fillet.PNG)
 
 ## Primitives
 [Convex Polyhedron](https://cad.onshape.com/documents/cc448676dec18cad9d8b2b57/w/4754b19de100bd9be64caea2/e/aa109f7201b85bb04af1573c) -- Creates a maximum convex solid for any orderless set of 3D vertices.
