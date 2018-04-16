@@ -2,7 +2,7 @@
 
 ![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fdcowden%2Ffeaturescript&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-115436381-1&z=887657232 "ga tracker")  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![FeatureScripts](https://img.shields.io/badge/FeatureScripts-90-brightgreen.svg)
 
-![Awesome](https://github.com/dcowden/featurescript/raw/master/awesome.png)
+![Awesome](awesome.png)
 
 FeatureScript is a way to extend [Onshape](http://www.onshape.com) with really cool custom features. Sadly, Onshape does not provide a 'Featurescript Store' that lists all of the really good ones. Its official [list of FeatureScripts](https://www.onshape.com/featurescript) is not comprehensive or categorized. Onshape, however, does have another [FeatureScript](https://cad.onshape.com/FsDoc/) page with [tutorials](https://cad.onshape.com/FsDoc/tutorials/create-a-slot-feature.html) and [documentation](https://cad.onshape.com/FsDoc/library.html). You can also view the [Onshape Standard Library Source](https://cad.onshape.com/documents/12312312345abcabcabcdeff).
 
@@ -21,6 +21,9 @@ Creates sheet metal tabs that easily break off.
 #### [Box/Dovetail Joint](https://cad.onshape.com/documents/57612867e4b018f59e4d52ce)
 Creates a finger joint or dovetail joint between two parts.
 
+#### [Butt Joint With Pin](https://cad.onshape.com/documents/deaa950158a21eba4f7b2cda)
+Creates a butt joint between two parts, optionally adding a pin. It can do multiple parts.
+
 #### [Dogbone and Overcut](https://cad.onshape.com/documents/51695bc13e3d9fb286023c70)
 Creates dogbones and overcuts for corners.
 
@@ -35,6 +38,9 @@ Creates a lap joint between two parts with rectangular sections.
 
 #### [Mortise and Tenon](https://cad.onshape.com/documents/57ebf15e06acf910d5ac1b09)
 Creates a mortise and tenon joint.
+
+#### [Rabbet Joint](https://cad.onshape.com/documents/723f38c9725c6634d3ecef92)
+Creates a rabbet joint.
 
 #### [Snap Hook](https://cad.onshape.com/documents/5738c1f6e4b06c68b35e66aa)
 Creates a snap hook, a common fastening feature in plastic part design.
