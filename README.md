@@ -1,6 +1,8 @@
 # Awesome FeatureScripts for Onshape
 
-![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fdcowden%2Ffeaturescript&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-115436381-1&z=887657232 "ga tracker")  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![FeatureScripts](https://img.shields.io/badge/FeatureScripts-90-brightgreen.svg)
+![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fdcowden%2Ffeaturescript&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-115436381-1&z=887657232 "ga tracker")
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![FeatureScripts](https://img.shields.io/badge/FeatureScripts-95-blue.svg)
 
 ![Awesome](awesome.png)
 
@@ -71,7 +73,7 @@ Create planes tangent to surfaces and other ways.
 #### [Extend Surface](https://cad.onshape.com/documents/b1b694bd5db0f702f9dc4b3b)
 Extends existing surface bodies.
 
-#### [Extrude Vertex](https://cad.onshape.com/documents/c5243aa82f2e404377db3017/w/2e1cd14f8ef6ad44b7c02b44)
+#### [Extrude Vertex](https://cad.onshape.com/documents/c5243aa82f2e404377db3017)
 Extrudes vertices in a specified direction to create a curve. It has second direction as well.
 
 #### [Fit Spline](https://cad.onshape.com/documents/4921880a2a6769256992599d)
@@ -170,7 +172,7 @@ Creates SAE J1926 straight thread ports.
 #### [Round Emboss](https://cad.onshape.com/documents/c906e2264d158509753b1bdb)
 Creates round formed embosses with the specified height, diameter, and draft angle. Both planar and non-planar surfaces are supported.
 
-#### [Setback Fillet](https://cad.onshape.com/documents/833dffabd805010ce935bee2/w/d15b586cc7aa564eee76cc28/e/45bbda3a08e8edd18c192163)
+#### [Setback Fillet](https://cad.onshape.com/documents/833dffabd805010ce935bee2)
 Converts standard 3-surface spherical corner fillets into setback fillets
 
 ## Primitives
