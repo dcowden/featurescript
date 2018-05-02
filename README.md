@@ -64,7 +64,7 @@ Creates a circular spiral along some spatial curve.
 #### [Contour Spiral](https://cad.onshape.com/documents/59007ff281e43510ea3797a2)
 Creates a spiral along the curve with user-defined cross section profile.
 
-#### [Curve Generator](https://cad.onshape.com/documents/2e01af46ce2cd5b90ee41156)
+#### [Curve Generator](https://cad.onshape.com/documents/d8aab1e0e7ae10038a6830e0)
 Generates parametric curves based on sketch relations between variable-driven geometrical constraints and a point.
 
 #### [Enhanced Planes](https://cad.onshape.com/documents/0de04acb5bac92ca16796edf)
