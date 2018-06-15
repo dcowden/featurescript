@@ -268,7 +268,7 @@ Adds a third direction to Onshape's standard linear pattern.
 #### [Linear Pattern with Seed Location](https://cad.onshape.com/documents/57b77f0de4b0a399ffb138eb)
 Adds ability to select seed location to linear pattern
 
-#### [Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6fd)
+#### [Parameter Pattern](https://cad.onshape.com/documents/d66ea5fec7a939e866ecbd6f)
 Creates "configurations" of geometry with predefined references to a set of user-defined variables.
 
 #### [Point Pattern](https://cad.onshape.com/documents/9fca78cb66a0bc83e359eb3e)
