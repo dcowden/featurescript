@@ -289,6 +289,9 @@ Deprecated by author's request: Use [Sheet Metal Overcut / Dogbone](#sheet-metal
 #### [Sheet Metal Flange Plus](https://cad.onshape.com/documents/b4b180faf4fe467356a58c21)
 A feature that allows you to set the distance of a flange from the inside instead of the outside of the sheet metal part. This acts like the Solidworks flange feature.
 
+#### [Sheet Metal Shaped Flange](https://cad.onshape.com/documents/602655eff016f183fc184978)
+A feature that allows the user to sketch a shape for a flange.
+
 #### [Sheet Metal Hem](https://cad.onshape.com/documents/9190d114354a31d33ed2eb4f)
 A feature that adds a hem onto a sheet metal part. Currently supports rolled, closed and open hems.
 
