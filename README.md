@@ -1,4 +1,5 @@
-# Awesome FeatureScripts for Onshape
+Awesome FeatureScripts for Onshape
+==================================
 
 ![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fdcowden%2Ffeaturescript&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-115436381-1&z=887657232 "ga tracker")
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
@@ -14,8 +15,8 @@ This list is and will always be community edited. Future plans include adding au
 #### Submitting Changes/Additions
 Feedback is welcome!  Please [log an issue](https://github.com/dcowden/featurescript/issues/new) or submit a Pull Request if you have changes you recommend.
 
-
-## Joinery
+Joinery
+-------
 
 #### [Break off Tabs](https://cad.onshape.com/documents/eea009fcf35a0cd683265767)
 Creates sheet metal tabs that easily break off.
@@ -50,7 +51,8 @@ Creates a snap hook, a common fastening feature in plastic part design.
 #### [T-slot Joint](https://cad.onshape.com/documents/5791a167e4b03c2aa6af3b35)
 Creates a T-slot bolted connection between two planar parts.
 
-## Surfaces, Curves, and Geometry
+Surfaces, Curves, and Geometry
+------------------------------
 
 #### [3D Points](https://cad.onshape.com/documents/502108ab33bd9af500b73c1a)
 Import 3d points from text input.
@@ -130,22 +132,11 @@ Maintains a sweep profile's normalcy relative to a reference surface instead of 
 #### [Variable Section Sweep](https://cad.onshape.com/documents/2d81c59d7fc5df36ecbaecf3)
 Proof of concept that creates a loft by a number of sketch cross sections along some curve varying value of sketch variables via reference control curves.
 
-## Manufacturing and 3d Printing Features
+Manufacturing and 3d Printing Features
+--------------------------------------
 
 #### [End Flange](https://cad.onshape.com/documents/57886436e4b038b786de90ff)
 Allows you to add a flange onto a planar surface of a solid body.
-
-#### [Fillet/Chamfer Everything](https://cad.onshape.com/documents/7793b338094a4f1de2017739)
-Fillets/Chamfers every edge in the part studio except for ones you select.
-
-#### [Fillet/Chamfer Part](https://cad.onshape.com/documents/af7aca4be9fa68afb7279d46)
-Fillets/Chamfers all edges in a single part except for selections.
-
-#### [Fillet/Chamfer Xtended](https://cad.onshape.com/documents/5fa8fd94e7c46ccddd1dedae)
-These are features that are like Onshape's fillet and chamfer features, but they can use vertices and bodies as selections as well.
-
-#### [Fillet/Chamfer Feature Library](https://cad.onshape.com/documents/b1be5929c83cf76c063a2181)
-An all-in-one feature that includes the above features.
 
 #### [Full Round Fillet](https://cad.onshape.com/documents/3d52520839c0fa3587798c0f)
 Creates fully rounded fillets.
@@ -175,7 +166,8 @@ Creates round formed embosses with the specified height, diameter, and draft ang
 #### [Setback Fillet](https://cad.onshape.com/documents/833dffabd805010ce935bee2)
 Converts standard 3-surface spherical corner fillets into setback fillets
 
-## Primitives
+Primitives
+----------
 
 #### [Bricks](https://cad.onshape.com/documents/573b8871e4b0fddafb4e953e)
 Creates building bricks in various styles and sizes.
@@ -186,7 +178,8 @@ Creates a maximum convex solid for any orderless set of 3D vertices.
 #### [Torus, Dome, and Sphere](https://cad.onshape.com/documents/05a8f21030b0b305f4416e1a)
 Creates simple tori, domes and spheres.
 
-## Structures
+Structures
+----------
 
 #### [Airfoil](https://cad.onshape.com/documents/4bf18c75321ea2c8c2ea770d)
 Creates Aerofoils from NACA 4 digit standard or any Aerofoil in the UIUC Aerofoil Database, loft between them and then break the created wing into structural components.
@@ -200,7 +193,11 @@ Creates 8020 Inc profiles.
 #### [Beams](https://cad.onshape.com/documents/e15c2c668d138f01242d0c80)
 Creates structural steel frames.
 
-## Fasteners, Threads, and Hardware
+#### [Australian Beams](https://cad.onshape.com/documents/cfcc264d41817d876589755c)
+Creates structural frames. Has options for material, custom profiles and more.
+
+Fasteners, Threads, and Hardware
+--------------------------------
 
 #### [ANSI Washers](https://cad.onshape.com/documents/867babd232327bab6de5d8ec)
 Creates standard sized ANSI washers.
@@ -217,7 +214,8 @@ Creates socket head cap screws, plus the associated taps and counterbores.
 #### [Thread Creator](https://cad.onshape.com/documents/6b640a407d78066bd5e41c7a)
 Creates internal and external threads.
 
-##  Gears, Drives, Shafts, and Pulleys
+Gears, Drives, Shafts, and Pulleys
+----------------------------------
 
 #### [Belt](https://cad.onshape.com/documents/57886eace4b0e425c1ef548a)
 Creates a belt around any number of pulleys.
@@ -246,12 +244,14 @@ Creates a wave spring at the origin with mate connectors at either end for easy 
 #### [Wiring](https://cad.onshape.com/documents/6dff8f67e2ef0b33193a10d2)
 Creates wire bundles that go through sketch points in 3D space.
 
-## Text and Decorative
+Text and Decorative
+-------------------
 
 #### [Curved Text](https://cad.onshape.com/documents/cfec40e2b66bb4ddb2f3414b)
 Creates embossed or raised text on flat and curved surfaces.
 
-## Patterning
+Patterning
+----------
 
 #### [Circular Pattern](https://cad.onshape.com/documents/57b7740ce4b002b1d76d73b8)
 Adds radial direction and seed location options to Onshape’s standard circular pattern.
@@ -277,14 +277,8 @@ Patterns parts at sketch vertices.
 #### [Transform Pattern](https://cad.onshape.com/documents/25a0a6dfaa76e64574a5e0db)
 Transforms faces, bodies or features to the positions defined by vertices or mate connectors. For body transfoms allows new/add/remove/intersect options.
 
-## Sheet Metal
-
-#### [Sheet Metal Boolean](https://cad.onshape.com/documents/3b3cdca425fbbc91f6a1f17c)
-A feature that booleans all bodies from the sheet metal model that you select. This can speed up regeneration time a lot.
-
-#### ~~[Sheet Metal Dogbone](https://cad.onshape.com/documents/63f36b78ac1ea86a34b7c603)~~
-~~A dogbone feature that is compatible with sheet metal.~~
-Deprecated by author's request: Use [Sheet Metal Overcut / Dogbone](#sheet-metal-overcut--dogbone) instead
+Sheet Metal
+-----------
 
 #### [Sheet Metal Flange Plus](https://cad.onshape.com/documents/b4b180faf4fe467356a58c21)
 A feature that allows you to set the distance of a flange from the inside instead of the outside of the sheet metal part. This acts like the Solidworks flange feature.
@@ -301,7 +295,8 @@ An extended version of the "Sheet Metal Model" feature that adds an option for b
 #### [Sheet Metal Overcut / Dogbone](https://cad.onshape.com/documents/b99915c0b73924ca981bc57f)
 A feature that creates overcuts and dogbones that are compatible with sheet metal. When creating dogbones, you can use a manipulator to change the direction of separate dogbones.
 
-## Analysis
+Analysis
+--------
 
 #### [Auto Layout](https://cad.onshape.com/documents/576e01dbe4b0cc2e7f46a55d)
 Nests flat parts into a set of flat sheets for cutting out.
@@ -324,11 +319,8 @@ Traces geometrical parameters of the motion of a flat mechanism defined by sketc
 #### [Graphic dependency](https://cad.onshape.com/documents/7ae741a97b8c8be22417809c)
 Defines dependency between a pair of variables by means of sketched law curve.
 
-## Misc
+Misc
+----
 
 #### [Onshape Standard Library Source (std)](https://cad.onshape.com/documents/12312312345abcabcabcdeff)
 The Onshape Standard Library Source Code.
-
-#### [Timeline Creator](https://cad.onshape.com/documents/ffb089792f76592c6b1b7594)
-Creates timelines of user-defined events
-
