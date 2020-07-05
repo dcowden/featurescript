@@ -86,7 +86,7 @@ Takes sketch edges or regions and transforms them like if target curve would bec
 Creates multiple, evenly spaced planes from a single reference plane or open/closed 2D or 3D edge.
 
 #### [Multi-Plane 2](https://cad.onshape.com/documents/578d3ba3e4b0fe44cbff7c02)
-This is the same as the Mult-Plane custom feature, but with a rotated plane array option.
+This is the same as the Multi-Plane custom feature, but with a rotated plane array option.
 
 #### [NACA Airfoil](https://cad.onshape.com/documents/972dc31f395640d97dd6edca)
 Create an NACA airfoil by reading a CSV file.
