@@ -301,6 +301,9 @@ Analysis
 #### [Auto Layout](https://cad.onshape.com/documents/576e01dbe4b0cc2e7f46a55d)
 Nests flat parts into a set of flat sheets for cutting out.
 
+#### [Compare](https://cad.onshape.com/documents/4112c3e76815ff51c3cb083a)
+Compares the geometry of 2 parts (or groups of parts), and if there are differences, creates composite part(s) containing those differences. Useful for assessing students or in other situations where you need to ensure part geometry has been modelled accurately.
+
 #### [Calculate Bounds](https://cad.onshape.com/documents/2ce3e64026df1ac7e63b98bd)
 Calculates the bounds of the selected objects.
 
