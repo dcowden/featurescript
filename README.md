@@ -244,6 +244,9 @@ Creates a wave spring at the origin with mate connectors at either end for easy 
 #### [Wiring](https://cad.onshape.com/documents/6dff8f67e2ef0b33193a10d2)
 Creates wire bundles that go through sketch points in 3D space.
 
+#### [Hose Routing](https://cad.onshape.com/documents/54d06a3b8abd1fcb0daba26b/)
+Route hoses through points in 3D space, controlling straightness and measuring minimum bend radius. Similar to the Wiring featurescript (above). More details [on the forum](https://forum.onshape.com/discussion/11110/new-featurescript-hose-routing/p1)
+
 Text and Decorative
 -------------------
 
